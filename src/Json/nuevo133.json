@@ -1,1 +1,2699 @@
-{"cp_id":"1","type":"PED","custom_products":{"id":"1","json_data":[{"level":1,"seguridad":0,"target":"","path":17,"display":"PATATAS EL VALLE","children":[{"level":2,"seguridad":0,"target":"","path":49,"display":"SUPREME NEGRAS"},{"level":2,"seguridad":0,"target":"","path":50,"display":"GRANEL"},{"level":2,"seguridad":0,"target":"","path":51,"display":"LIGHT"},{"level":2,"seguridad":0,"target":"","path":52,"display":"COTCKAIL"},{"level":2,"seguridad":0,"target":"","path":53,"display":"NEGRAS PEQUE\u00d1AS"},{"level":2,"seguridad":0,"target":"","path":54,"display":"JAMON"},{"level":2,"seguridad":0,"target":"","path":55,"display":"CAMPESINAS"},{"level":2,"seguridad":0,"target":"","path":56,"display":"HUEVO FRITO"},{"level":2,"seguridad":0,"target":"","path":57,"display":"PUNTO SAL"},{"level":2,"seguridad":0,"target":"","path":58,"display":"ONDULADAS"},{"level":2,"seguridad":0,"target":"","path":59,"display":"P. SIN SAL"},{"level":2,"seguridad":0,"target":"","path":60,"display":"CAMPESINAS PEQ"},{"level":2,"seguridad":0,"target":"","path":61,"display":"JAMON PEQ"},{"level":2,"seguridad":0,"target":"","path":62,"display":"CUADRADITOS"},{"level":2,"seguridad":0,"target":"","path":63,"display":"COCTKAIL PEQ"},{"level":2,"seguridad":0,"target":"","path":64,"display":"RUSTICAS"},{"level":2,"seguridad":0,"target":"","path":65,"display":"PAT OLIVA"}]},{"level":1,"seguridad":0,"target":"","path":16,"display":"PICOS MIRANDA","children":[{"level":2,"seguridad":0,"target":"","path":42,"display":"COLINES"},{"level":2,"seguridad":0,"target":"","path":43,"display":"GORDOS"},{"level":2,"seguridad":0,"target":"","path":44,"display":"ROSQUILLAS"},{"level":2,"seguridad":0,"target":"","path":45,"display":"ROSQUILLA INTEGRALES"},{"level":2,"seguridad":0,"target":"","path":46,"display":"PITICLIN"},{"level":2,"seguridad":0,"target":"","path":47,"display":"BOLITAS 150"},{"level":2,"seguridad":0,"target":"","path":48,"display":"RAJAITOS"}]},{"level":1,"seguridad":0,"target":"","path":15,"display":"PICOS CORONA","children":[{"level":2,"seguridad":0,"target":"","path":40,"display":"PICOS SIN NOMBRE Y BARES"},{"level":2,"seguridad":0,"target":"","path":41,"display":"PICOS TIENDAS"}]},{"level":1,"seguridad":0,"target":"","path":14,"display":"PICOS CONDADO","children":[{"level":2,"seguridad":0,"target":"","path":35,"display":"REBUJITOS CONDADO"},{"level":2,"seguridad":0,"target":"","path":36,"display":"CAMPERITOS"},{"level":2,"seguridad":0,"target":"","path":37,"display":"PERSONALIZADOS"},{"level":2,"seguridad":0,"target":"","path":38,"display":"CAMPERITOS GRANDES"},{"level":2,"seguridad":0,"target":"","path":39,"display":"MONEDAS"}]},{"level":1,"seguridad":0,"target":"","path":13,"display":"REGA\u00d1A ROLDAN","children":[{"level":2,"seguridad":0,"target":"","path":33,"display":"REGA\u00d1A BARES"},{"level":2,"seguridad":0,"target":"","path":34,"display":"REGA\u00d1A CASH Y TIENDAS"}]},{"level":1,"seguridad":0,"target":"","path":12,"display":"PICOS","children":[{"level":2,"seguridad":0,"target":"","path":32,"display":"P.SIN GLUTEN"}]},{"level":1,"seguridad":0,"target":"","path":11,"display":"CUSTODIO MAGDALENA","children":[{"level":2,"seguridad":0,"target":"","path":30,"display":"MAGDALENAS ACEITE"},{"level":2,"seguridad":0,"target":"","path":31,"display":"MAGDALENAS"}]},{"level":1,"seguridad":0,"target":"","path":10,"display":"RONDE\u00d1A CA\u00d1AS","children":[{"level":2,"seguridad":0,"target":"","path":27,"display":"CA\u00d1AS CREMA"},{"level":2,"seguridad":0,"target":"","path":28,"display":"CA\u00d1AS SIDRA"},{"level":2,"seguridad":0,"target":"","path":29,"display":"CA\u00d1AS CHOCOLATE"}]},{"level":1,"seguridad":0,"target":"","path":9,"display":"JUMPER","children":[{"level":2,"seguridad":0,"target":"","path":21,"display":"J. KETCHUP"},{"level":2,"seguridad":0,"target":"","path":22,"display":"J. MANTEQUILLA"},{"level":2,"seguridad":0,"target":"","path":23,"display":"CONCHITAS KETCHUP"},{"level":2,"seguridad":0,"target":"","path":24,"display":"CONCHITAS JAMON"},{"level":2,"seguridad":0,"target":"","path":25,"display":"J.YORK QUESO"},{"level":2,"seguridad":0,"target":"","path":26,"display":"J. FAMILIAR"}]},{"level":1,"seguridad":0,"target":"","path":8,"display":"ASPIL PUNTAZOS","children":[{"level":2,"seguridad":0,"target":"","path":20,"display":"PUNTAZOS"}]},{"level":1,"seguridad":0,"target":"","path":7,"display":"ASPIL CURRITOS","children":[{"level":2,"seguridad":0,"target":"","path":19,"display":"ARROZ INLFADO"}]},{"level":1,"seguridad":0,"target":"","path":6,"display":"REBUJINA SEVILLANAS","children":[{"level":2,"seguridad":0,"target":"","path":18,"display":"REBUJINAS"}]},{"level":1,"seguridad":0,"target":"","path":5,"display":"PIPAS SEVILLANAS","children":[{"level":2,"seguridad":0,"target":"","path":15,"display":"P. SALADAS"},{"level":2,"seguridad":0,"target":"","path":16,"display":"P. SIN SAL"},{"level":2,"seguridad":0,"target":"","path":17,"display":"P. AGUASAL"}]},{"level":1,"seguridad":0,"target":"","path":4,"display":"PICOS LOS ROSALES","children":[{"level":2,"seguridad":0,"target":"","path":14,"display":"PICOS VIOLINES"}]},{"level":1,"seguridad":0,"target":"","path":3,"display":"APERTITIVOS","children":[{"level":2,"seguridad":0,"target":"","path":13,"display":"KONITOS"}]},{"level":1,"seguridad":0,"target":"","path":2,"display":"PATATAS","children":[{"level":2,"seguridad":0,"target":"","path":2,"display":"JAMON 140 G"},{"level":2,"seguridad":0,"target":"","path":3,"display":"CLASICA 150G"},{"level":2,"seguridad":0,"target":"","path":4,"display":"PAT YORK QUESO"},{"level":2,"seguridad":0,"target":"","path":5,"display":"AJILLO 140G"},{"level":2,"seguridad":0,"target":"","path":6,"display":"LISA SAL PEQ"},{"level":2,"seguridad":0,"target":"","path":7,"display":"ONDULADA PLAYA"},{"level":2,"seguridad":0,"target":"","path":8,"display":"TIRITAS"},{"level":2,"seguridad":0,"target":"","path":9,"display":"JAMON 70G"},{"level":2,"seguridad":0,"target":"","path":10,"display":"CARTUCHO"},{"level":2,"seguridad":0,"target":"","path":11,"display":"METALIZADAS"},{"level":2,"seguridad":0,"target":"","path":12,"display":"PAT BARBACOA"}]}],"active":"1","nombre":"Catalogo Proveedores"},"list":[{"level":1,"seguridad":0,"target":"","path":17,"display":"PATATAS EL VALLE","children":[{"level":2,"seguridad":0,"target":"","path":49,"display":"SUPREME NEGRAS"},{"level":2,"seguridad":0,"target":"","path":50,"display":"GRANEL"},{"level":2,"seguridad":0,"target":"","path":51,"display":"LIGHT"},{"level":2,"seguridad":0,"target":"","path":52,"display":"COTCKAIL"},{"level":2,"seguridad":0,"target":"","path":53,"display":"NEGRAS PEQUE\u00d1AS"},{"level":2,"seguridad":0,"target":"","path":54,"display":"JAMON"},{"level":2,"seguridad":0,"target":"","path":55,"display":"CAMPESINAS"},{"level":2,"seguridad":0,"target":"","path":56,"display":"HUEVO FRITO"},{"level":2,"seguridad":0,"target":"","path":57,"display":"PUNTO SAL"},{"level":2,"seguridad":0,"target":"","path":58,"display":"ONDULADAS"},{"level":2,"seguridad":0,"target":"","path":59,"display":"P. SIN SAL"},{"level":2,"seguridad":0,"target":"","path":60,"display":"CAMPESINAS PEQ"},{"level":2,"seguridad":0,"target":"","path":61,"display":"JAMON PEQ"},{"level":2,"seguridad":0,"target":"","path":62,"display":"CUADRADITOS"},{"level":2,"seguridad":0,"target":"","path":63,"display":"COCTKAIL PEQ"},{"level":2,"seguridad":0,"target":"","path":64,"display":"RUSTICAS"},{"level":2,"seguridad":0,"target":"","path":65,"display":"PAT OLIVA"}]},{"level":1,"seguridad":0,"target":"","path":16,"display":"PICOS MIRANDA","children":[{"level":2,"seguridad":0,"target":"","path":42,"display":"COLINES"},{"level":2,"seguridad":0,"target":"","path":43,"display":"GORDOS"},{"level":2,"seguridad":0,"target":"","path":44,"display":"ROSQUILLAS"},{"level":2,"seguridad":0,"target":"","path":45,"display":"ROSQUILLA INTEGRALES"},{"level":2,"seguridad":0,"target":"","path":46,"display":"PITICLIN"},{"level":2,"seguridad":0,"target":"","path":47,"display":"BOLITAS 150"},{"level":2,"seguridad":0,"target":"","path":48,"display":"RAJAITOS"}]},{"level":1,"seguridad":0,"target":"","path":15,"display":"PICOS CORONA","children":[{"level":2,"seguridad":0,"target":"","path":40,"display":"PICOS SIN NOMBRE Y BARES"},{"level":2,"seguridad":0,"target":"","path":41,"display":"PICOS TIENDAS"}]},{"level":1,"seguridad":0,"target":"","path":14,"display":"PICOS CONDADO","children":[{"level":2,"seguridad":0,"target":"","path":35,"display":"REBUJITOS CONDADO"},{"level":2,"seguridad":0,"target":"","path":36,"display":"CAMPERITOS"},{"level":2,"seguridad":0,"target":"","path":37,"display":"PERSONALIZADOS"},{"level":2,"seguridad":0,"target":"","path":38,"display":"CAMPERITOS GRANDES"},{"level":2,"seguridad":0,"target":"","path":39,"display":"MONEDAS"}]},{"level":1,"seguridad":0,"target":"","path":13,"display":"REGA\u00d1A ROLDAN","children":[{"level":2,"seguridad":0,"target":"","path":33,"display":"REGA\u00d1A BARES"},{"level":2,"seguridad":0,"target":"","path":34,"display":"REGA\u00d1A CASH Y TIENDAS"}]},{"level":1,"seguridad":0,"target":"","path":12,"display":"PICOS","children":[{"level":2,"seguridad":0,"target":"","path":32,"display":"P.SIN GLUTEN"}]},{"level":1,"seguridad":0,"target":"","path":11,"display":"CUSTODIO MAGDALENA","children":[{"level":2,"seguridad":0,"target":"","path":30,"display":"MAGDALENAS ACEITE"},{"level":2,"seguridad":0,"target":"","path":31,"display":"MAGDALENAS"}]},{"level":1,"seguridad":0,"target":"","path":10,"display":"RONDE\u00d1A CA\u00d1AS","children":[{"level":2,"seguridad":0,"target":"","path":27,"display":"CA\u00d1AS CREMA"},{"level":2,"seguridad":0,"target":"","path":28,"display":"CA\u00d1AS SIDRA"},{"level":2,"seguridad":0,"target":"","path":29,"display":"CA\u00d1AS CHOCOLATE"}]},{"level":1,"seguridad":0,"target":"","path":9,"display":"JUMPER","children":[{"level":2,"seguridad":0,"target":"","path":21,"display":"J. KETCHUP"},{"level":2,"seguridad":0,"target":"","path":22,"display":"J. MANTEQUILLA"},{"level":2,"seguridad":0,"target":"","path":23,"display":"CONCHITAS KETCHUP"},{"level":2,"seguridad":0,"target":"","path":24,"display":"CONCHITAS JAMON"},{"level":2,"seguridad":0,"target":"","path":25,"display":"J.YORK QUESO"},{"level":2,"seguridad":0,"target":"","path":26,"display":"J. FAMILIAR"}]},{"level":1,"seguridad":0,"target":"","path":8,"display":"ASPIL PUNTAZOS","children":[{"level":2,"seguridad":0,"target":"","path":20,"display":"PUNTAZOS"}]},{"level":1,"seguridad":0,"target":"","path":7,"display":"ASPIL CURRITOS","children":[{"level":2,"seguridad":0,"target":"","path":19,"display":"ARROZ INLFADO"}]},{"level":1,"seguridad":0,"target":"","path":6,"display":"REBUJINA SEVILLANAS","children":[{"level":2,"seguridad":0,"target":"","path":18,"display":"REBUJINAS"}]},{"level":1,"seguridad":0,"target":"","path":5,"display":"PIPAS SEVILLANAS","children":[{"level":2,"seguridad":0,"target":"","path":15,"display":"P. SALADAS"},{"level":2,"seguridad":0,"target":"","path":16,"display":"P. SIN SAL"},{"level":2,"seguridad":0,"target":"","path":17,"display":"P. AGUASAL"}]},{"level":1,"seguridad":0,"target":"","path":4,"display":"PICOS LOS ROSALES","children":[{"level":2,"seguridad":0,"target":"","path":14,"display":"PICOS VIOLINES"}]},{"level":1,"seguridad":0,"target":"","path":3,"display":"APERTITIVOS","children":[{"level":2,"seguridad":0,"target":"","path":13,"display":"KONITOS"}]},{"level":1,"seguridad":0,"target":"","path":2,"display":"PATATAS","children":[{"level":2,"seguridad":0,"target":"","path":2,"display":"JAMON 140 G"},{"level":2,"seguridad":0,"target":"","path":3,"display":"CLASICA 150G"},{"level":2,"seguridad":0,"target":"","path":4,"display":"PAT YORK QUESO"},{"level":2,"seguridad":0,"target":"","path":5,"display":"AJILLO 140G"},{"level":2,"seguridad":0,"target":"","path":6,"display":"LISA SAL PEQ"},{"level":2,"seguridad":0,"target":"","path":7,"display":"ONDULADA PLAYA"},{"level":2,"seguridad":0,"target":"","path":8,"display":"TIRITAS"},{"level":2,"seguridad":0,"target":"","path":9,"display":"JAMON 70G"},{"level":2,"seguridad":0,"target":"","path":10,"display":"CARTUCHO"},{"level":2,"seguridad":0,"target":"","path":11,"display":"METALIZADAS"},{"level":2,"seguridad":0,"target":"","path":12,"display":"PAT BARBACOA"}]}],"category_list":{"17":{"id":17,"nombre":"PATATAS EL VALLE","children":[{"level":2,"seguridad":0,"target":"","path":49,"display":"SUPREME NEGRAS"},{"level":2,"seguridad":0,"target":"","path":50,"display":"GRANEL"},{"level":2,"seguridad":0,"target":"","path":51,"display":"LIGHT"},{"level":2,"seguridad":0,"target":"","path":52,"display":"COTCKAIL"},{"level":2,"seguridad":0,"target":"","path":53,"display":"NEGRAS PEQUE\u00d1AS"},{"level":2,"seguridad":0,"target":"","path":54,"display":"JAMON"},{"level":2,"seguridad":0,"target":"","path":55,"display":"CAMPESINAS"},{"level":2,"seguridad":0,"target":"","path":56,"display":"HUEVO FRITO"},{"level":2,"seguridad":0,"target":"","path":57,"display":"PUNTO SAL"},{"level":2,"seguridad":0,"target":"","path":58,"display":"ONDULADAS"},{"level":2,"seguridad":0,"target":"","path":59,"display":"P. SIN SAL"},{"level":2,"seguridad":0,"target":"","path":60,"display":"CAMPESINAS PEQ"},{"level":2,"seguridad":0,"target":"","path":61,"display":"JAMON PEQ"},{"level":2,"seguridad":0,"target":"","path":62,"display":"CUADRADITOS"},{"level":2,"seguridad":0,"target":"","path":63,"display":"COCTKAIL PEQ"},{"level":2,"seguridad":0,"target":"","path":64,"display":"RUSTICAS"},{"level":2,"seguridad":0,"target":"","path":65,"display":"PAT OLIVA"}]},"16":{"id":16,"nombre":"PICOS MIRANDA","children":[{"level":2,"seguridad":0,"target":"","path":42,"display":"COLINES"},{"level":2,"seguridad":0,"target":"","path":43,"display":"GORDOS"},{"level":2,"seguridad":0,"target":"","path":44,"display":"ROSQUILLAS"},{"level":2,"seguridad":0,"target":"","path":45,"display":"ROSQUILLA INTEGRALES"},{"level":2,"seguridad":0,"target":"","path":46,"display":"PITICLIN"},{"level":2,"seguridad":0,"target":"","path":47,"display":"BOLITAS 150"},{"level":2,"seguridad":0,"target":"","path":48,"display":"RAJAITOS"}]},"15":{"id":15,"nombre":"PICOS CORONA","children":[{"level":2,"seguridad":0,"target":"","path":40,"display":"PICOS SIN NOMBRE Y BARES"},{"level":2,"seguridad":0,"target":"","path":41,"display":"PICOS TIENDAS"}]},"14":{"id":14,"nombre":"PICOS CONDADO","children":[{"level":2,"seguridad":0,"target":"","path":35,"display":"REBUJITOS CONDADO"},{"level":2,"seguridad":0,"target":"","path":36,"display":"CAMPERITOS"},{"level":2,"seguridad":0,"target":"","path":37,"display":"PERSONALIZADOS"},{"level":2,"seguridad":0,"target":"","path":38,"display":"CAMPERITOS GRANDES"},{"level":2,"seguridad":0,"target":"","path":39,"display":"MONEDAS"}]},"13":{"id":13,"nombre":"REGA\u00d1A ROLDAN","children":[{"level":2,"seguridad":0,"target":"","path":33,"display":"REGA\u00d1A BARES"},{"level":2,"seguridad":0,"target":"","path":34,"display":"REGA\u00d1A CASH Y TIENDAS"}]},"12":{"id":12,"nombre":"PICOS","children":[{"level":2,"seguridad":0,"target":"","path":32,"display":"P.SIN GLUTEN"}]},"11":{"id":11,"nombre":"CUSTODIO MAGDALENA","children":[{"level":2,"seguridad":0,"target":"","path":30,"display":"MAGDALENAS ACEITE"},{"level":2,"seguridad":0,"target":"","path":31,"display":"MAGDALENAS"}]},"10":{"id":10,"nombre":"RONDE\u00d1A CA\u00d1AS","children":[{"level":2,"seguridad":0,"target":"","path":27,"display":"CA\u00d1AS CREMA"},{"level":2,"seguridad":0,"target":"","path":28,"display":"CA\u00d1AS SIDRA"},{"level":2,"seguridad":0,"target":"","path":29,"display":"CA\u00d1AS CHOCOLATE"}]},"9":{"id":9,"nombre":"JUMPER","children":[{"level":2,"seguridad":0,"target":"","path":21,"display":"J. KETCHUP"},{"level":2,"seguridad":0,"target":"","path":22,"display":"J. MANTEQUILLA"},{"level":2,"seguridad":0,"target":"","path":23,"display":"CONCHITAS KETCHUP"},{"level":2,"seguridad":0,"target":"","path":24,"display":"CONCHITAS JAMON"},{"level":2,"seguridad":0,"target":"","path":25,"display":"J.YORK QUESO"},{"level":2,"seguridad":0,"target":"","path":26,"display":"J. FAMILIAR"}]},"8":{"id":8,"nombre":"ASPIL PUNTAZOS","children":[{"level":2,"seguridad":0,"target":"","path":20,"display":"PUNTAZOS"}]},"7":{"id":7,"nombre":"ASPIL CURRITOS","children":[{"level":2,"seguridad":0,"target":"","path":19,"display":"ARROZ INLFADO"}]},"6":{"id":6,"nombre":"REBUJINA SEVILLANAS","children":[{"level":2,"seguridad":0,"target":"","path":18,"display":"REBUJINAS"}]},"5":{"id":5,"nombre":"PIPAS SEVILLANAS","children":[{"level":2,"seguridad":0,"target":"","path":15,"display":"P. SALADAS"},{"level":2,"seguridad":0,"target":"","path":16,"display":"P. SIN SAL"},{"level":2,"seguridad":0,"target":"","path":17,"display":"P. AGUASAL"}]},"4":{"id":4,"nombre":"PICOS LOS ROSALES","children":[{"level":2,"seguridad":0,"target":"","path":14,"display":"PICOS VIOLINES"}]},"3":{"id":3,"nombre":"APERTITIVOS","children":[{"level":2,"seguridad":0,"target":"","path":13,"display":"KONITOS"}]},"2":{"id":2,"nombre":"PATATAS","children":[{"level":2,"seguridad":0,"target":"","path":2,"display":"JAMON 140 G"},{"level":2,"seguridad":0,"target":"","path":3,"display":"CLASICA 150G"},{"level":2,"seguridad":0,"target":"","path":4,"display":"PAT YORK QUESO"},{"level":2,"seguridad":0,"target":"","path":5,"display":"AJILLO 140G"},{"level":2,"seguridad":0,"target":"","path":6,"display":"LISA SAL PEQ"},{"level":2,"seguridad":0,"target":"","path":7,"display":"ONDULADA PLAYA"},{"level":2,"seguridad":0,"target":"","path":8,"display":"TIRITAS"},{"level":2,"seguridad":0,"target":"","path":9,"display":"JAMON 70G"},{"level":2,"seguridad":0,"target":"","path":10,"display":"CARTUCHO"},{"level":2,"seguridad":0,"target":"","path":11,"display":"METALIZADAS"},{"level":2,"seguridad":0,"target":"","path":12,"display":"PAT BARBACOA"}]}},"current_category":17,"products":[{"id":"49","catalogo_id":null,"tipo_catalogo_id":"0","atributo_id":null,"producto_referencia":"201","producto_nombre":"EL VALLE SUPREME 110GR","producto__combinacion_referencia":null,"producto__combinacion_nombre":null,"ean":"","codigo_estado":"ACT","fecha_alta":"2025-05-30","fecha_baja":"0000-00-00","coste":"6.500000","precio":"8.181818","precio_pvp":"9","precio_mayorista":"0","precio_pvp_mayorista":"0","precio_pvp_web":"0","precio_web":"0","stock_minimo":"15","pedido_minimo":"0","iva":"10.00","cuenta_id":"","nombre_atributo":null,"color":null,"extra":null,"nombre_grupo_atributo":null,"grupo_atributo_id":null,"is_combinacion":"0","publica_online":"2","nombre_tipo_catalogo":null,"ref_nombre":"201 - EL VALLE SUPREME 110GR","producto_nombre_atributo":"EL VALLE SUPREME 110GR","producto_nombre_resumido_atributo":"EL VALLE SUPREME","marca_id":"13","descripcion":"PATATAS SUPREME 10 UD\/ 110 GR","unidad_medida_tipo":"Unida","unidad_medida_valor":"0","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fad83a22ddfee9e7bad9ca0c38f63e495.jpg","thumbail":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fad83a22ddfee9e7bad9ca0c38f63e495.jpg","codigo_interno":"","unidades_medida_nombre":null,"img":[{"id":"11","table_database":"catalogo","table_id":"49","file_name":"SUPREME.jpg","file_hash":"ad83a22ddfee9e7bad9ca0c38f63e495.jpg","type":"imagenPrincipalProducto","path":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fad83a22ddfee9e7bad9ca0c38f63e495.jpg","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fad83a22ddfee9e7bad9ca0c38f63e495.jpg"}]},{"id":"50","catalogo_id":null,"tipo_catalogo_id":"0","atributo_id":null,"producto_referencia":"202","producto_nombre":"EL VALLE A GRANEL 500GR","producto__combinacion_referencia":null,"producto__combinacion_nombre":null,"ean":"","codigo_estado":"ACT","fecha_alta":"2025-05-31","fecha_baja":"0000-00-00","coste":"15.000000","precio":"15.454545","precio_pvp":"17","precio_mayorista":"0","precio_pvp_mayorista":"0","precio_pvp_web":"0","precio_web":"0","stock_minimo":"5","pedido_minimo":"0","iva":"10.00","cuenta_id":"","nombre_atributo":null,"color":null,"extra":null,"nombre_grupo_atributo":null,"grupo_atributo_id":null,"is_combinacion":"0","publica_online":"2","nombre_tipo_catalogo":null,"ref_nombre":"202 - EL VALLE A GRANEL 500GR","producto_nombre_atributo":"EL VALLE A GRANEL 500GR","producto_nombre_resumido_atributo":"EL VALLE A GRANEL","marca_id":"13","descripcion":"PATATAS GRANEL 6 UDS\/ 500 GR","unidad_medida_tipo":"Unida","unidad_medida_valor":"0","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F7dcc0414fda21aeff2ba8697b4618976.jpg","thumbail":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F7dcc0414fda21aeff2ba8697b4618976.jpg","codigo_interno":"","unidades_medida_nombre":null,"img":[{"id":"77","table_database":"catalogo","table_id":"50","file_name":"GRANEL-VALLE.jpg","file_hash":"7dcc0414fda21aeff2ba8697b4618976.jpg","type":"imagenPrincipalProducto","path":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F7dcc0414fda21aeff2ba8697b4618976.jpg","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F7dcc0414fda21aeff2ba8697b4618976.jpg"}]},{"id":"51","catalogo_id":null,"tipo_catalogo_id":"0","atributo_id":null,"producto_referencia":"203","producto_nombre":"EL VALLE PATATAS LIGHT","producto__combinacion_referencia":null,"producto__combinacion_nombre":null,"ean":"","codigo_estado":"ACT","fecha_alta":"2025-05-31","fecha_baja":"0000-00-00","coste":"6.500000","precio":"7.727273","precio_pvp":"8.5","precio_mayorista":"0","precio_pvp_mayorista":"0","precio_pvp_web":"0","precio_web":"0","stock_minimo":"3","pedido_minimo":"0","iva":"10.00","cuenta_id":"","nombre_atributo":null,"color":null,"extra":null,"nombre_grupo_atributo":null,"grupo_atributo_id":null,"is_combinacion":"0","publica_online":"2","nombre_tipo_catalogo":null,"ref_nombre":"203 - EL VALLE PATATAS LIGHT","producto_nombre_atributo":"EL VALLE PATATAS LIGHT","producto_nombre_resumido_atributo":"EL VALLE LIGHT","marca_id":"13","descripcion":"PATATAS LIGHT 9 UDS\/ 100 GR","unidad_medida_tipo":"Unida","unidad_medida_valor":"0","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fda235f91d30e31706a5ef9ce013f06d3.jpg","thumbail":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fda235f91d30e31706a5ef9ce013f06d3.jpg","codigo_interno":"","unidades_medida_nombre":null,"img":[{"id":"46","table_database":"catalogo","table_id":"51","file_name":"chic-valle.jpg","file_hash":"da235f91d30e31706a5ef9ce013f06d3.jpg","type":"imagenPrincipalProducto","path":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fda235f91d30e31706a5ef9ce013f06d3.jpg","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fda235f91d30e31706a5ef9ce013f06d3.jpg"}]},{"id":"52","catalogo_id":null,"tipo_catalogo_id":"0","atributo_id":null,"producto_referencia":"204","producto_nombre":"EL VALLE COCKTAIL 120GR","producto__combinacion_referencia":null,"producto__combinacion_nombre":null,"ean":"","codigo_estado":"ACT","fecha_alta":"2025-05-31","fecha_baja":"0000-00-00","coste":"6.500000","precio":"7.727273","precio_pvp":"8.5","precio_mayorista":"0","precio_pvp_mayorista":"0","precio_pvp_web":"0","precio_web":"0","stock_minimo":"3","pedido_minimo":"0","iva":"10.00","cuenta_id":"","nombre_atributo":null,"color":null,"extra":null,"nombre_grupo_atributo":null,"grupo_atributo_id":null,"is_combinacion":"0","publica_online":"2","nombre_tipo_catalogo":null,"ref_nombre":"204 - EL VALLE COCKTAIL 120GR","producto_nombre_atributo":"EL VALLE COCKTAIL 120GR","producto_nombre_resumido_atributo":"EL VALLE COCKTAIL","marca_id":"13","descripcion":"COCKTAIL 9 UD\/120 GR","unidad_medida_tipo":"Unida","unidad_medida_valor":"0","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F0152205b9d33dab66b0b6f7a970c8aa4.jpg","thumbail":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F0152205b9d33dab66b0b6f7a970c8aa4.jpg","codigo_interno":"","unidades_medida_nombre":null,"img":[{"id":"50","table_database":"catalogo","table_id":"52","file_name":"COKTAIL-VALLE.jpg","file_hash":"0152205b9d33dab66b0b6f7a970c8aa4.jpg","type":"imagenPrincipalProducto","path":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F0152205b9d33dab66b0b6f7a970c8aa4.jpg","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F0152205b9d33dab66b0b6f7a970c8aa4.jpg"}]},{"id":"53","catalogo_id":null,"tipo_catalogo_id":"0","atributo_id":null,"producto_referencia":"205","producto_nombre":"EL VALLE SUPREME 45 GR","producto__combinacion_referencia":null,"producto__combinacion_nombre":null,"ean":"","codigo_estado":"ACT","fecha_alta":"2025-05-31","fecha_baja":"0000-00-00","coste":"8.000000","precio":"9.090909","precio_pvp":"10","precio_mayorista":"0","precio_pvp_mayorista":"0","precio_pvp_web":"0","precio_web":"0","stock_minimo":"3","pedido_minimo":"0","iva":"10.00","cuenta_id":"","nombre_atributo":null,"color":null,"extra":null,"nombre_grupo_atributo":null,"grupo_atributo_id":null,"is_combinacion":"0","publica_online":"2","nombre_tipo_catalogo":null,"ref_nombre":"205 - EL VALLE SUPREME 45 GR","producto_nombre_atributo":"EL VALLE SUPREME 45 GR","producto_nombre_resumido_atributo":"EL VALLE SUPREME 45GR","marca_id":"13","descripcion":"PATATAS SUPREME 24 UDS\/ 45 GR","unidad_medida_tipo":"Unida","unidad_medida_valor":"0","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fce96d1e790da9efc655814d54cebb831.jpg","thumbail":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fce96d1e790da9efc655814d54cebb831.jpg","codigo_interno":"","unidades_medida_nombre":null,"img":[{"id":"51","table_database":"catalogo","table_id":"53","file_name":"SUPREME.jpg","file_hash":"ce96d1e790da9efc655814d54cebb831.jpg","type":"imagenPrincipalProducto","path":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fce96d1e790da9efc655814d54cebb831.jpg","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fce96d1e790da9efc655814d54cebb831.jpg"}]},{"id":"54","catalogo_id":null,"tipo_catalogo_id":"0","atributo_id":null,"producto_referencia":"206","producto_nombre":"EL VALLE JAMON 120 GR","producto__combinacion_referencia":null,"producto__combinacion_nombre":null,"ean":"","codigo_estado":"ACT","fecha_alta":"2025-05-31","fecha_baja":"0000-00-00","coste":"8.000000","precio":"8.181818","precio_pvp":"9","precio_mayorista":"0","precio_pvp_mayorista":"0","precio_pvp_web":"0","precio_web":"0","stock_minimo":"5","pedido_minimo":"0","iva":"10.00","cuenta_id":"","nombre_atributo":null,"color":null,"extra":null,"nombre_grupo_atributo":null,"grupo_atributo_id":null,"is_combinacion":"0","publica_online":"2","nombre_tipo_catalogo":null,"ref_nombre":"206 - EL VALLE JAMON 120 GR","producto_nombre_atributo":"EL VALLE JAMON 120 GR","producto_nombre_resumido_atributo":"EL VALLE JAMON","marca_id":"13","descripcion":"PATATAS JAMON 10 UD\/120 GRS","unidad_medida_tipo":"Unida","unidad_medida_valor":"0","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F53acd99db6bd46927e28a147a91292d4.jpg","thumbail":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F53acd99db6bd46927e28a147a91292d4.jpg","codigo_interno":"","unidades_medida_nombre":null,"img":[{"id":"47","table_database":"catalogo","table_id":"54","file_name":"JAMON-VALLE.jpg","file_hash":"53acd99db6bd46927e28a147a91292d4.jpg","type":"imagenPrincipalProducto","path":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F53acd99db6bd46927e28a147a91292d4.jpg","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F53acd99db6bd46927e28a147a91292d4.jpg"}]},{"id":"55","catalogo_id":null,"tipo_catalogo_id":"0","atributo_id":null,"producto_referencia":"207","producto_nombre":"EL VALLE CAMPESINAS 120 GR","producto__combinacion_referencia":null,"producto__combinacion_nombre":null,"ean":"","codigo_estado":"ACT","fecha_alta":"2025-05-30","fecha_baja":"0000-00-00","coste":"8.000000","precio":"8.181818","precio_pvp":"9","precio_mayorista":"0","precio_pvp_mayorista":"0","precio_pvp_web":"0","precio_web":"0","stock_minimo":"5","pedido_minimo":"0","iva":"10.00","cuenta_id":"","nombre_atributo":null,"color":null,"extra":null,"nombre_grupo_atributo":null,"grupo_atributo_id":null,"is_combinacion":"0","publica_online":"2","nombre_tipo_catalogo":null,"ref_nombre":"207 - EL VALLE CAMPESINAS 120 GR","producto_nombre_atributo":"EL VALLE CAMPESINAS 120 GR","producto_nombre_resumido_atributo":"EL VALLE CAMPESINAS","marca_id":"13","descripcion":"PATATAS CAMPESINAS 10 UD\/ 120 GR","unidad_medida_tipo":"Unida","unidad_medida_valor":"0","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Feb411283ee785514463c9e3c60df48ca.jpg","thumbail":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Feb411283ee785514463c9e3c60df48ca.jpg","codigo_interno":"","unidades_medida_nombre":null,"img":[{"id":"13","table_database":"catalogo","table_id":"55","file_name":"CAMPESINAS-VALLE.jpg","file_hash":"eb411283ee785514463c9e3c60df48ca.jpg","type":"imagenPrincipalProducto","path":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Feb411283ee785514463c9e3c60df48ca.jpg","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Feb411283ee785514463c9e3c60df48ca.jpg"}]},{"id":"56","catalogo_id":null,"tipo_catalogo_id":"0","atributo_id":null,"producto_referencia":"208","producto_nombre":"EL VALLE HUEVO FRITO 120GR","producto__combinacion_referencia":null,"producto__combinacion_nombre":null,"ean":"","codigo_estado":"ACT","fecha_alta":"2025-05-30","fecha_baja":"0000-00-00","coste":"8.000000","precio":"8.181818","precio_pvp":"9","precio_mayorista":"0","precio_pvp_mayorista":"0","precio_pvp_web":"0","precio_web":"0","stock_minimo":"5","pedido_minimo":"0","iva":"10.00","cuenta_id":"","nombre_atributo":null,"color":null,"extra":null,"nombre_grupo_atributo":null,"grupo_atributo_id":null,"is_combinacion":"0","publica_online":"2","nombre_tipo_catalogo":null,"ref_nombre":"208 - EL VALLE HUEVO FRITO 120GR","producto_nombre_atributo":"EL VALLE HUEVO FRITO 120GR","producto_nombre_resumido_atributo":"EL VALLE HUEVO FRITO","marca_id":"13","descripcion":"PATATAS HUEVO FRITO 10 UD\/ 120 GR","unidad_medida_tipo":"Unida","unidad_medida_valor":"0","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F717dc1e3f17f173e248dc4913682a1da.jpg","thumbail":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F717dc1e3f17f173e248dc4913682a1da.jpg","codigo_interno":"","unidades_medida_nombre":null,"img":[{"id":"12","table_database":"catalogo","table_id":"56","file_name":"HUEVO.jpg","file_hash":"717dc1e3f17f173e248dc4913682a1da.jpg","type":"imagenPrincipalProducto","path":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F717dc1e3f17f173e248dc4913682a1da.jpg","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F717dc1e3f17f173e248dc4913682a1da.jpg"}]},{"id":"57","catalogo_id":null,"tipo_catalogo_id":"0","atributo_id":null,"producto_referencia":"209","producto_nombre":"EL VALLE AL PUNTO DE SAL 120GR","producto__combinacion_referencia":null,"producto__combinacion_nombre":null,"ean":"","codigo_estado":"ACT","fecha_alta":"2025-05-31","fecha_baja":"0000-00-00","coste":"7.000000","precio":"8.181818","precio_pvp":"9","precio_mayorista":"0","precio_pvp_mayorista":"0","precio_pvp_web":"0","precio_web":"0","stock_minimo":"5","pedido_minimo":"0","iva":"10.00","cuenta_id":"","nombre_atributo":null,"color":null,"extra":null,"nombre_grupo_atributo":null,"grupo_atributo_id":null,"is_combinacion":"0","publica_online":"2","nombre_tipo_catalogo":null,"ref_nombre":"209 - EL VALLE AL PUNTO DE SAL 120GR","producto_nombre_atributo":"EL VALLE AL PUNTO DE SAL 120GR","producto_nombre_resumido_atributo":"EL VALLE PUNTO DE SAL","marca_id":"13","descripcion":"PATATAS PUNTO DE SAL 10 UDS\/120 GRS","unidad_medida_tipo":"Unida","unidad_medida_valor":"0","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F1e55e0c4ff2c94badc7f2245ea09ea9f.jpg","thumbail":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F1e55e0c4ff2c94badc7f2245ea09ea9f.jpg","codigo_interno":"","unidades_medida_nombre":null,"img":[{"id":"42","table_database":"catalogo","table_id":"57","file_name":"PUNTO-SAL-VALLE.jpg","file_hash":"1e55e0c4ff2c94badc7f2245ea09ea9f.jpg","type":"imagenPrincipalProducto","path":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F1e55e0c4ff2c94badc7f2245ea09ea9f.jpg","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F1e55e0c4ff2c94badc7f2245ea09ea9f.jpg"}]},{"id":"58","catalogo_id":null,"tipo_catalogo_id":"0","atributo_id":null,"producto_referencia":"210","producto_nombre":"EL VALLE ONDULADAS 140GR","producto__combinacion_referencia":null,"producto__combinacion_nombre":null,"ean":"","codigo_estado":"ACT","fecha_alta":"2025-05-31","fecha_baja":"0000-00-00","coste":"6.500000","precio":"8.181818","precio_pvp":"9","precio_mayorista":"0","precio_pvp_mayorista":"0","precio_pvp_web":"0","precio_web":"0","stock_minimo":"5","pedido_minimo":"0","iva":"10.00","cuenta_id":"","nombre_atributo":null,"color":null,"extra":null,"nombre_grupo_atributo":null,"grupo_atributo_id":null,"is_combinacion":"0","publica_online":"2","nombre_tipo_catalogo":null,"ref_nombre":"210 - EL VALLE ONDULADAS 140GR","producto_nombre_atributo":"EL VALLE ONDULADAS 140GR","producto_nombre_resumido_atributo":"EL VALLE ONDULADAS","marca_id":"13","descripcion":"PATATAS ONDULADAS 10 UDS\/ 140GR","unidad_medida_tipo":"Unida","unidad_medida_valor":"0","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F21d7c5cca97a4d9019d1404c357ce777.jpg","thumbail":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F21d7c5cca97a4d9019d1404c357ce777.jpg","codigo_interno":"","unidades_medida_nombre":null,"img":[{"id":"54","table_database":"catalogo","table_id":"58","file_name":"ONDULADAS-VALLE.jpg","file_hash":"21d7c5cca97a4d9019d1404c357ce777.jpg","type":"imagenPrincipalProducto","path":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F21d7c5cca97a4d9019d1404c357ce777.jpg","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F21d7c5cca97a4d9019d1404c357ce777.jpg"}]},{"id":"59","catalogo_id":null,"tipo_catalogo_id":"0","atributo_id":null,"producto_referencia":"211","producto_nombre":"EL VALLE SIN SAL 150GR","producto__combinacion_referencia":null,"producto__combinacion_nombre":null,"ean":"","codigo_estado":"ACT","fecha_alta":"2025-05-31","fecha_baja":"0000-00-00","coste":"7.000000","precio":"8.181818","precio_pvp":"9","precio_mayorista":"0","precio_pvp_mayorista":"0","precio_pvp_web":"0","precio_web":"0","stock_minimo":"5","pedido_minimo":"0","iva":"10.00","cuenta_id":"","nombre_atributo":null,"color":null,"extra":null,"nombre_grupo_atributo":null,"grupo_atributo_id":null,"is_combinacion":"0","publica_online":"2","nombre_tipo_catalogo":null,"ref_nombre":"211 - EL VALLE SIN SAL 150GR","producto_nombre_atributo":"EL VALLE SIN SAL 150GR","producto_nombre_resumido_atributo":"EL VALLE SIN SAL","marca_id":"13","descripcion":"PATATAS SIN SAL 8 UDS\/ 150 GRS","unidad_medida_tipo":"Unida","unidad_medida_valor":"0","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F7937cd6b952b2376185bf44048067cce.jpg","thumbail":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F7937cd6b952b2376185bf44048067cce.jpg","codigo_interno":"","unidades_medida_nombre":null,"img":[{"id":"55","table_database":"catalogo","table_id":"59","file_name":"SIN-SAL-VALLE.jpg","file_hash":"7937cd6b952b2376185bf44048067cce.jpg","type":"imagenPrincipalProducto","path":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F7937cd6b952b2376185bf44048067cce.jpg","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F7937cd6b952b2376185bf44048067cce.jpg"}]},{"id":"60","catalogo_id":null,"tipo_catalogo_id":"0","atributo_id":null,"producto_referencia":"212","producto_nombre":"EL VALLE CAMPESINAS 45 GR","producto__combinacion_referencia":null,"producto__combinacion_nombre":null,"ean":"","codigo_estado":"ACT","fecha_alta":"2025-05-31","fecha_baja":"0000-00-00","coste":"4.000000","precio":"4.545455","precio_pvp":"5","precio_mayorista":"0","precio_pvp_mayorista":"0","precio_pvp_web":"0","precio_web":"0","stock_minimo":"2","pedido_minimo":"0","iva":"10.00","cuenta_id":"","nombre_atributo":null,"color":null,"extra":null,"nombre_grupo_atributo":null,"grupo_atributo_id":null,"is_combinacion":"0","publica_online":"2","nombre_tipo_catalogo":null,"ref_nombre":"212 - EL VALLE CAMPESINAS 45 GR","producto_nombre_atributo":"EL VALLE CAMPESINAS 45 GR","producto_nombre_resumido_atributo":"EL VALLE CAMPESINAS 45GR","marca_id":"13","descripcion":"PATATAS CAMPESINAS 12 UD\/ 45 GRS","unidad_medida_tipo":"Unida","unidad_medida_valor":"0","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fa92cd7f2ab75611a1a107daed47c805d.jpg","thumbail":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fa92cd7f2ab75611a1a107daed47c805d.jpg","codigo_interno":"","unidades_medida_nombre":null,"img":[{"id":"52","table_database":"catalogo","table_id":"60","file_name":"CAMPESINAS-VALLE.jpg","file_hash":"a92cd7f2ab75611a1a107daed47c805d.jpg","type":"imagenPrincipalProducto","path":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fa92cd7f2ab75611a1a107daed47c805d.jpg","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fa92cd7f2ab75611a1a107daed47c805d.jpg"}]},{"id":"61","catalogo_id":null,"tipo_catalogo_id":"0","atributo_id":null,"producto_referencia":"213","producto_nombre":"EL VALLE JAMON 45 GR","producto__combinacion_referencia":null,"producto__combinacion_nombre":null,"ean":"","codigo_estado":"ACT","fecha_alta":"2025-05-31","fecha_baja":"0000-00-00","coste":"4.000000","precio":"4.545455","precio_pvp":"5","precio_mayorista":"0","precio_pvp_mayorista":"0","precio_pvp_web":"0","precio_web":"0","stock_minimo":"2","pedido_minimo":"0","iva":"10.00","cuenta_id":"","nombre_atributo":null,"color":null,"extra":null,"nombre_grupo_atributo":null,"grupo_atributo_id":null,"is_combinacion":"0","publica_online":"2","nombre_tipo_catalogo":null,"ref_nombre":"213 - EL VALLE JAMON 45 GR","producto_nombre_atributo":"EL VALLE JAMON 45 GR","producto_nombre_resumido_atributo":"EL VALLE JAMON 45GR","marca_id":"13","descripcion":"PATATAS JAMON 12 UD\/ 45 GRS","unidad_medida_tipo":"Unida","unidad_medida_valor":"0","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F2fdaa87f28ccf2012f9d42a6454a6ba2.jpg","thumbail":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F2fdaa87f28ccf2012f9d42a6454a6ba2.jpg","codigo_interno":"","unidades_medida_nombre":null,"img":[{"id":"53","table_database":"catalogo","table_id":"61","file_name":"JAMON-VALLE.jpg","file_hash":"2fdaa87f28ccf2012f9d42a6454a6ba2.jpg","type":"imagenPrincipalProducto","path":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F2fdaa87f28ccf2012f9d42a6454a6ba2.jpg","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F2fdaa87f28ccf2012f9d42a6454a6ba2.jpg"}]},{"id":"62","catalogo_id":null,"tipo_catalogo_id":"0","atributo_id":null,"producto_referencia":"214","producto_nombre":"EL VALLE KUADRADITOS 120GR","producto__combinacion_referencia":null,"producto__combinacion_nombre":null,"ean":"","codigo_estado":"ACT","fecha_alta":"2025-05-31","fecha_baja":"0000-00-00","coste":"9.500000","precio":"10.454545","precio_pvp":"11.5","precio_mayorista":"0","precio_pvp_mayorista":"0","precio_pvp_web":"0","precio_web":"0","stock_minimo":"10","pedido_minimo":"0","iva":"10.00","cuenta_id":"","nombre_atributo":null,"color":null,"extra":null,"nombre_grupo_atributo":null,"grupo_atributo_id":null,"is_combinacion":"0","publica_online":"2","nombre_tipo_catalogo":null,"ref_nombre":"214 - EL VALLE KUADRADITOS 120GR","producto_nombre_atributo":"EL VALLE KUADRADITOS 120GR","producto_nombre_resumido_atributo":"EL VALLE KUADRADITOS","marca_id":"13","descripcion":"APERITIVOS CUADRADITOS 12 UD\/120 GRS","unidad_medida_tipo":"Unida","unidad_medida_valor":"0","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fb860eef9e05f8fce95e2b87994bf024d.jpg","thumbail":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fb860eef9e05f8fce95e2b87994bf024d.jpg","codigo_interno":"","unidades_medida_nombre":null,"img":[{"id":"45","table_database":"catalogo","table_id":"62","file_name":"KUADRADITOS-VALLE.jpg","file_hash":"b860eef9e05f8fce95e2b87994bf024d.jpg","type":"imagenPrincipalProducto","path":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fb860eef9e05f8fce95e2b87994bf024d.jpg","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fb860eef9e05f8fce95e2b87994bf024d.jpg"}]},{"id":"63","catalogo_id":null,"tipo_catalogo_id":"0","atributo_id":null,"producto_referencia":"215","producto_nombre":"EL VALLE COCKTAIL SUPREME 120GR","producto__combinacion_referencia":null,"producto__combinacion_nombre":null,"ean":"","codigo_estado":"ACT","fecha_alta":"2025-05-28","fecha_baja":"0000-00-00","coste":"9.500000","precio":"10.454545","precio_pvp":"11.5","precio_mayorista":"0","precio_pvp_mayorista":"0","precio_pvp_web":"0","precio_web":"0","stock_minimo":"5","pedido_minimo":"0","iva":"10.00","cuenta_id":"","nombre_atributo":null,"color":null,"extra":null,"nombre_grupo_atributo":null,"grupo_atributo_id":null,"is_combinacion":"0","publica_online":"2","nombre_tipo_catalogo":null,"ref_nombre":"215 - EL VALLE COCKTAIL SUPREME 120GR","producto_nombre_atributo":"EL VALLE COCKTAIL SUPREME 120GR","producto_nombre_resumido_atributo":"EL VALLE COCKTAIL SUPREME","marca_id":"13","descripcion":"COCKTAIL\u00a0SUPREME 12 UD\/120 GRS","unidad_medida_tipo":"Unida","unidad_medida_valor":"0","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F1191f04580c0f9964699df1674286255.jpg","thumbail":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F1191f04580c0f9964699df1674286255.jpg","codigo_interno":"","unidades_medida_nombre":null,"img":[{"id":"9","table_database":"catalogo","table_id":"63","file_name":"ELVALLE.jpg","file_hash":"1191f04580c0f9964699df1674286255.jpg","type":"imagenPrincipalProducto","path":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F1191f04580c0f9964699df1674286255.jpg","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F1191f04580c0f9964699df1674286255.jpg"}]},{"id":"64","catalogo_id":null,"tipo_catalogo_id":"0","atributo_id":null,"producto_referencia":"216","producto_nombre":"EL VALLE RUSTICAS 380GR","producto__combinacion_referencia":null,"producto__combinacion_nombre":null,"ean":"","codigo_estado":"ACT","fecha_alta":"2025-05-31","fecha_baja":"0000-00-00","coste":"13.000000","precio":"13.636364","precio_pvp":"15","precio_mayorista":"0","precio_pvp_mayorista":"0","precio_pvp_web":"0","precio_web":"0","stock_minimo":"3","pedido_minimo":"0","iva":"10.00","cuenta_id":"","nombre_atributo":null,"color":null,"extra":null,"nombre_grupo_atributo":null,"grupo_atributo_id":null,"is_combinacion":"0","publica_online":"2","nombre_tipo_catalogo":null,"ref_nombre":"216 - EL VALLE RUSTICAS 380GR","producto_nombre_atributo":"EL VALLE RUSTICAS 380GR","producto_nombre_resumido_atributo":"EL VALLE RUSTICAS","marca_id":"13","descripcion":"PATATAS RUSTICAS 380 GRS\/6UDS","unidad_medida_tipo":"Unida","unidad_medida_valor":"0","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F79cd34dd7fe5e5d2220c95369853524f.jpg","thumbail":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F79cd34dd7fe5e5d2220c95369853524f.jpg","codigo_interno":"","unidades_medida_nombre":null,"img":[{"id":"41","table_database":"catalogo","table_id":"64","file_name":"RUSTICA-VALLE.jpg","file_hash":"79cd34dd7fe5e5d2220c95369853524f.jpg","type":"imagenPrincipalProducto","path":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F79cd34dd7fe5e5d2220c95369853524f.jpg","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F79cd34dd7fe5e5d2220c95369853524f.jpg"}]},{"id":"65","catalogo_id":null,"tipo_catalogo_id":"0","atributo_id":null,"producto_referencia":"217","producto_nombre":"EL VALLE PATATAS ACEITE DE OLIVA","producto__combinacion_referencia":null,"producto__combinacion_nombre":null,"ean":"","codigo_estado":"ACT","fecha_alta":"2025-05-31","fecha_baja":"0000-00-00","coste":"10.000000","precio":"11.363636","precio_pvp":"12.5","precio_mayorista":"0","precio_pvp_mayorista":"0","precio_pvp_web":"0","precio_web":"0","stock_minimo":"2","pedido_minimo":"0","iva":"10.00","cuenta_id":"","nombre_atributo":null,"color":null,"extra":null,"nombre_grupo_atributo":null,"grupo_atributo_id":null,"is_combinacion":"0","publica_online":"2","nombre_tipo_catalogo":null,"ref_nombre":"217 - EL VALLE PATATAS ACEITE DE OLIVA","producto_nombre_atributo":"EL VALLE PATATAS ACEITE DE OLIVA","producto_nombre_resumido_atributo":"EL VALLE PATATAS OLIVA","marca_id":"13","descripcion":"PATATAS OLIVA 10 UD\/120 GRS","unidad_medida_tipo":"Unida","unidad_medida_valor":"0","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F1caf2b136a94a5ddf0234ac2223f6d3c.jpg","thumbail":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F1caf2b136a94a5ddf0234ac2223f6d3c.jpg","codigo_interno":"","unidades_medida_nombre":null,"img":[{"id":"43","table_database":"catalogo","table_id":"65","file_name":"OLIVA-VALLE.jpg","file_hash":"1caf2b136a94a5ddf0234ac2223f6d3c.jpg","type":"imagenPrincipalProducto","path":"https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F1caf2b136a94a5ddf0234ac2223f6d3c.jpg","amazon_key":"efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F1caf2b136a94a5ddf0234ac2223f6d3c.jpg"}]}],"show_pbase":null}
+{
+    "cp_id": "1",
+    "type": "PED",
+    "custom_products": {
+        "id": "1",
+        "json_data": [
+            {
+                "level": 1,
+                "seguridad": 0,
+                "target": "",
+                "path": 17,
+                "display": "PATATAS EL VALLE",
+                "children": [
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 49,
+                        "display": "SUPREME NEGRAS"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 50,
+                        "display": "GRANEL"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 51,
+                        "display": "LIGHT"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 52,
+                        "display": "COTCKAIL"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 53,
+                        "display": "NEGRAS PEQUE\u00d1AS"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 54,
+                        "display": "JAMON"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 55,
+                        "display": "CAMPESINAS"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 56,
+                        "display": "HUEVO FRITO"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 57,
+                        "display": "PUNTO SAL"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 58,
+                        "display": "ONDULADAS"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 59,
+                        "display": "P. SIN SAL"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 60,
+                        "display": "CAMPESINAS PEQ"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 61,
+                        "display": "JAMON PEQ"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 62,
+                        "display": "CUADRADITOS"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 63,
+                        "display": "COCTKAIL PEQ"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 64,
+                        "display": "RUSTICAS"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 65,
+                        "display": "PAT OLIVA"
+                    }
+                ]
+            },
+            {
+                "level": 1,
+                "seguridad": 0,
+                "target": "",
+                "path": 16,
+                "display": "PICOS MIRANDA",
+                "children": [
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 42,
+                        "display": "COLINES"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 43,
+                        "display": "GORDOS"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 44,
+                        "display": "ROSQUILLAS"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 45,
+                        "display": "ROSQUILLA INTEGRALES"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 46,
+                        "display": "PITICLIN"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 47,
+                        "display": "BOLITAS 150"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 48,
+                        "display": "RAJAITOS"
+                    }
+                ]
+            },
+            {
+                "level": 1,
+                "seguridad": 0,
+                "target": "",
+                "path": 15,
+                "display": "PICOS CORONA",
+                "children": [
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 40,
+                        "display": "PICOS SIN NOMBRE Y BARES"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 41,
+                        "display": "PICOS TIENDAS"
+                    }
+                ]
+            },
+            {
+                "level": 1,
+                "seguridad": 0,
+                "target": "",
+                "path": 14,
+                "display": "PICOS CONDADO",
+                "children": [
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 35,
+                        "display": "REBUJITOS CONDADO"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 36,
+                        "display": "CAMPERITOS"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 37,
+                        "display": "PERSONALIZADOS"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 38,
+                        "display": "CAMPERITOS GRANDES"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 39,
+                        "display": "MONEDAS"
+                    }
+                ]
+            },
+            {
+                "level": 1,
+                "seguridad": 0,
+                "target": "",
+                "path": 13,
+                "display": "REGA\u00d1A ROLDAN",
+                "children": [
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 33,
+                        "display": "REGA\u00d1A BARES"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 34,
+                        "display": "REGA\u00d1A CASH Y TIENDAS"
+                    }
+                ]
+            },
+            {
+                "level": 1,
+                "seguridad": 0,
+                "target": "",
+                "path": 12,
+                "display": "PICOS",
+                "children": [
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 32,
+                        "display": "P.SIN GLUTEN"
+                    }
+                ]
+            },
+            {
+                "level": 1,
+                "seguridad": 0,
+                "target": "",
+                "path": 11,
+                "display": "CUSTODIO MAGDALENA",
+                "children": [
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 30,
+                        "display": "MAGDALENAS ACEITE"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 31,
+                        "display": "MAGDALENAS"
+                    }
+                ]
+            },
+            {
+                "level": 1,
+                "seguridad": 0,
+                "target": "",
+                "path": 10,
+                "display": "RONDE\u00d1A CA\u00d1AS",
+                "children": [
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 27,
+                        "display": "CA\u00d1AS CREMA"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 28,
+                        "display": "CA\u00d1AS SIDRA"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 29,
+                        "display": "CA\u00d1AS CHOCOLATE"
+                    }
+                ]
+            },
+            {
+                "level": 1,
+                "seguridad": 0,
+                "target": "",
+                "path": 9,
+                "display": "JUMPER",
+                "children": [
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 21,
+                        "display": "J. KETCHUP"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 22,
+                        "display": "J. MANTEQUILLA"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 23,
+                        "display": "CONCHITAS KETCHUP"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 24,
+                        "display": "CONCHITAS JAMON"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 25,
+                        "display": "J.YORK QUESO"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 26,
+                        "display": "J. FAMILIAR"
+                    }
+                ]
+            },
+            {
+                "level": 1,
+                "seguridad": 0,
+                "target": "",
+                "path": 8,
+                "display": "ASPIL PUNTAZOS",
+                "children": [
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 20,
+                        "display": "PUNTAZOS"
+                    }
+                ]
+            },
+            {
+                "level": 1,
+                "seguridad": 0,
+                "target": "",
+                "path": 7,
+                "display": "ASPIL CURRITOS",
+                "children": [
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 19,
+                        "display": "ARROZ INLFADO"
+                    }
+                ]
+            },
+            {
+                "level": 1,
+                "seguridad": 0,
+                "target": "",
+                "path": 6,
+                "display": "REBUJINA SEVILLANAS",
+                "children": [
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 18,
+                        "display": "REBUJINAS"
+                    }
+                ]
+            },
+            {
+                "level": 1,
+                "seguridad": 0,
+                "target": "",
+                "path": 5,
+                "display": "PIPAS SEVILLANAS",
+                "children": [
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 15,
+                        "display": "P. SALADAS"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 16,
+                        "display": "P. SIN SAL"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 17,
+                        "display": "P. AGUASAL"
+                    }
+                ]
+            },
+            {
+                "level": 1,
+                "seguridad": 0,
+                "target": "",
+                "path": 4,
+                "display": "PICOS LOS ROSALES",
+                "children": [
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 14,
+                        "display": "PICOS VIOLINES"
+                    }
+                ]
+            },
+            {
+                "level": 1,
+                "seguridad": 0,
+                "target": "",
+                "path": 3,
+                "display": "APERTITIVOS",
+                "children": [
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 13,
+                        "display": "KONITOS"
+                    }
+                ]
+            },
+            {
+                "level": 1,
+                "seguridad": 0,
+                "target": "",
+                "path": 2,
+                "display": "PATATAS",
+                "children": [
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 2,
+                        "display": "JAMON 140 G"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 3,
+                        "display": "CLASICA 150G"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 4,
+                        "display": "PAT YORK QUESO"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 5,
+                        "display": "AJILLO 140G"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 6,
+                        "display": "LISA SAL PEQ"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 7,
+                        "display": "ONDULADA PLAYA"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 8,
+                        "display": "TIRITAS"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 9,
+                        "display": "JAMON 70G"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 10,
+                        "display": "CARTUCHO"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 11,
+                        "display": "METALIZADAS"
+                    },
+                    {
+                        "level": 2,
+                        "seguridad": 0,
+                        "target": "",
+                        "path": 12,
+                        "display": "PAT BARBACOA"
+                    }
+                ]
+            }
+        ],
+        "active": "1",
+        "nombre": "Catalogo Proveedores"
+    },
+    "list": [
+        {
+            "level": 1,
+            "seguridad": 0,
+            "target": "",
+            "path": 17,
+            "display": "PATATAS EL VALLE",
+            "children": [
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 49,
+                    "display": "SUPREME NEGRAS"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 50,
+                    "display": "GRANEL"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 51,
+                    "display": "LIGHT"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 52,
+                    "display": "COTCKAIL"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 53,
+                    "display": "NEGRAS PEQUE\u00d1AS"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 54,
+                    "display": "JAMON"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 55,
+                    "display": "CAMPESINAS"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 56,
+                    "display": "HUEVO FRITO"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 57,
+                    "display": "PUNTO SAL"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 58,
+                    "display": "ONDULADAS"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 59,
+                    "display": "P. SIN SAL"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 60,
+                    "display": "CAMPESINAS PEQ"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 61,
+                    "display": "JAMON PEQ"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 62,
+                    "display": "CUADRADITOS"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 63,
+                    "display": "COCTKAIL PEQ"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 64,
+                    "display": "RUSTICAS"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 65,
+                    "display": "PAT OLIVA"
+                }
+            ]
+        },
+        {
+            "level": 1,
+            "seguridad": 0,
+            "target": "",
+            "path": 16,
+            "display": "PICOS MIRANDA",
+            "children": [
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 42,
+                    "display": "COLINES"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 43,
+                    "display": "GORDOS"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 44,
+                    "display": "ROSQUILLAS"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 45,
+                    "display": "ROSQUILLA INTEGRALES"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 46,
+                    "display": "PITICLIN"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 47,
+                    "display": "BOLITAS 150"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 48,
+                    "display": "RAJAITOS"
+                }
+            ]
+        },
+        {
+            "level": 1,
+            "seguridad": 0,
+            "target": "",
+            "path": 15,
+            "display": "PICOS CORONA",
+            "children": [
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 40,
+                    "display": "PICOS SIN NOMBRE Y BARES"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 41,
+                    "display": "PICOS TIENDAS"
+                }
+            ]
+        },
+        {
+            "level": 1,
+            "seguridad": 0,
+            "target": "",
+            "path": 14,
+            "display": "PICOS CONDADO",
+            "children": [
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 35,
+                    "display": "REBUJITOS CONDADO"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 36,
+                    "display": "CAMPERITOS"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 37,
+                    "display": "PERSONALIZADOS"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 38,
+                    "display": "CAMPERITOS GRANDES"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 39,
+                    "display": "MONEDAS"
+                }
+            ]
+        },
+        {
+            "level": 1,
+            "seguridad": 0,
+            "target": "",
+            "path": 13,
+            "display": "REGA\u00d1A ROLDAN",
+            "children": [
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 33,
+                    "display": "REGA\u00d1A BARES"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 34,
+                    "display": "REGA\u00d1A CASH Y TIENDAS"
+                }
+            ]
+        },
+        {
+            "level": 1,
+            "seguridad": 0,
+            "target": "",
+            "path": 12,
+            "display": "PICOS",
+            "children": [
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 32,
+                    "display": "P.SIN GLUTEN"
+                }
+            ]
+        },
+        {
+            "level": 1,
+            "seguridad": 0,
+            "target": "",
+            "path": 11,
+            "display": "CUSTODIO MAGDALENA",
+            "children": [
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 30,
+                    "display": "MAGDALENAS ACEITE"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 31,
+                    "display": "MAGDALENAS"
+                }
+            ]
+        },
+        {
+            "level": 1,
+            "seguridad": 0,
+            "target": "",
+            "path": 10,
+            "display": "RONDE\u00d1A CA\u00d1AS",
+            "children": [
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 27,
+                    "display": "CA\u00d1AS CREMA"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 28,
+                    "display": "CA\u00d1AS SIDRA"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 29,
+                    "display": "CA\u00d1AS CHOCOLATE"
+                }
+            ]
+        },
+        {
+            "level": 1,
+            "seguridad": 0,
+            "target": "",
+            "path": 9,
+            "display": "JUMPER",
+            "children": [
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 21,
+                    "display": "J. KETCHUP"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 22,
+                    "display": "J. MANTEQUILLA"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 23,
+                    "display": "CONCHITAS KETCHUP"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 24,
+                    "display": "CONCHITAS JAMON"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 25,
+                    "display": "J.YORK QUESO"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 26,
+                    "display": "J. FAMILIAR"
+                }
+            ]
+        },
+        {
+            "level": 1,
+            "seguridad": 0,
+            "target": "",
+            "path": 8,
+            "display": "ASPIL PUNTAZOS",
+            "children": [
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 20,
+                    "display": "PUNTAZOS"
+                }
+            ]
+        },
+        {
+            "level": 1,
+            "seguridad": 0,
+            "target": "",
+            "path": 7,
+            "display": "ASPIL CURRITOS",
+            "children": [
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 19,
+                    "display": "ARROZ INLFADO"
+                }
+            ]
+        },
+        {
+            "level": 1,
+            "seguridad": 0,
+            "target": "",
+            "path": 6,
+            "display": "REBUJINA SEVILLANAS",
+            "children": [
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 18,
+                    "display": "REBUJINAS"
+                }
+            ]
+        },
+        {
+            "level": 1,
+            "seguridad": 0,
+            "target": "",
+            "path": 5,
+            "display": "PIPAS SEVILLANAS",
+            "children": [
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 15,
+                    "display": "P. SALADAS"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 16,
+                    "display": "P. SIN SAL"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 17,
+                    "display": "P. AGUASAL"
+                }
+            ]
+        },
+        {
+            "level": 1,
+            "seguridad": 0,
+            "target": "",
+            "path": 4,
+            "display": "PICOS LOS ROSALES",
+            "children": [
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 14,
+                    "display": "PICOS VIOLINES"
+                }
+            ]
+        },
+        {
+            "level": 1,
+            "seguridad": 0,
+            "target": "",
+            "path": 3,
+            "display": "APERTITIVOS",
+            "children": [
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 13,
+                    "display": "KONITOS"
+                }
+            ]
+        },
+        {
+            "level": 1,
+            "seguridad": 0,
+            "target": "",
+            "path": 2,
+            "display": "PATATAS",
+            "children": [
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 2,
+                    "display": "JAMON 140 G"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 3,
+                    "display": "CLASICA 150G"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 4,
+                    "display": "PAT YORK QUESO"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 5,
+                    "display": "AJILLO 140G"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 6,
+                    "display": "LISA SAL PEQ"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 7,
+                    "display": "ONDULADA PLAYA"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 8,
+                    "display": "TIRITAS"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 9,
+                    "display": "JAMON 70G"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 10,
+                    "display": "CARTUCHO"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 11,
+                    "display": "METALIZADAS"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 12,
+                    "display": "PAT BARBACOA"
+                }
+            ]
+        }
+    ],
+    "category_list": {
+        "17": {
+            "id": 17,
+            "nombre": "PATATAS EL VALLE",
+            "children": [
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 49,
+                    "display": "SUPREME NEGRAS"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 50,
+                    "display": "GRANEL"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 51,
+                    "display": "LIGHT"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 52,
+                    "display": "COTCKAIL"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 53,
+                    "display": "NEGRAS PEQUE\u00d1AS"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 54,
+                    "display": "JAMON"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 55,
+                    "display": "CAMPESINAS"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 56,
+                    "display": "HUEVO FRITO"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 57,
+                    "display": "PUNTO SAL"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 58,
+                    "display": "ONDULADAS"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 59,
+                    "display": "P. SIN SAL"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 60,
+                    "display": "CAMPESINAS PEQ"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 61,
+                    "display": "JAMON PEQ"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 62,
+                    "display": "CUADRADITOS"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 63,
+                    "display": "COCTKAIL PEQ"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 64,
+                    "display": "RUSTICAS"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 65,
+                    "display": "PAT OLIVA"
+                }
+            ]
+        },
+        "16": {
+            "id": 16,
+            "nombre": "PICOS MIRANDA",
+            "children": [
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 42,
+                    "display": "COLINES"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 43,
+                    "display": "GORDOS"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 44,
+                    "display": "ROSQUILLAS"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 45,
+                    "display": "ROSQUILLA INTEGRALES"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 46,
+                    "display": "PITICLIN"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 47,
+                    "display": "BOLITAS 150"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 48,
+                    "display": "RAJAITOS"
+                }
+            ]
+        },
+        "15": {
+            "id": 15,
+            "nombre": "PICOS CORONA",
+            "children": [
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 40,
+                    "display": "PICOS SIN NOMBRE Y BARES"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 41,
+                    "display": "PICOS TIENDAS"
+                }
+            ]
+        },
+        "14": {
+            "id": 14,
+            "nombre": "PICOS CONDADO",
+            "children": [
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 35,
+                    "display": "REBUJITOS CONDADO"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 36,
+                    "display": "CAMPERITOS"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 37,
+                    "display": "PERSONALIZADOS"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 38,
+                    "display": "CAMPERITOS GRANDES"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 39,
+                    "display": "MONEDAS"
+                }
+            ]
+        },
+        "13": {
+            "id": 13,
+            "nombre": "REGA\u00d1A ROLDAN",
+            "children": [
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 33,
+                    "display": "REGA\u00d1A BARES"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 34,
+                    "display": "REGA\u00d1A CASH Y TIENDAS"
+                }
+            ]
+        },
+        "12": {
+            "id": 12,
+            "nombre": "PICOS",
+            "children": [
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 32,
+                    "display": "P.SIN GLUTEN"
+                }
+            ]
+        },
+        "11": {
+            "id": 11,
+            "nombre": "CUSTODIO MAGDALENA",
+            "children": [
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 30,
+                    "display": "MAGDALENAS ACEITE"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 31,
+                    "display": "MAGDALENAS"
+                }
+            ]
+        },
+        "10": {
+            "id": 10,
+            "nombre": "RONDE\u00d1A CA\u00d1AS",
+            "children": [
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 27,
+                    "display": "CA\u00d1AS CREMA"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 28,
+                    "display": "CA\u00d1AS SIDRA"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 29,
+                    "display": "CA\u00d1AS CHOCOLATE"
+                }
+            ]
+        },
+        "9": {
+            "id": 9,
+            "nombre": "JUMPER",
+            "children": [
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 21,
+                    "display": "J. KETCHUP"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 22,
+                    "display": "J. MANTEQUILLA"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 23,
+                    "display": "CONCHITAS KETCHUP"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 24,
+                    "display": "CONCHITAS JAMON"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 25,
+                    "display": "J.YORK QUESO"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 26,
+                    "display": "J. FAMILIAR"
+                }
+            ]
+        },
+        "8": {
+            "id": 8,
+            "nombre": "ASPIL PUNTAZOS",
+            "children": [
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 20,
+                    "display": "PUNTAZOS"
+                }
+            ]
+        },
+        "7": {
+            "id": 7,
+            "nombre": "ASPIL CURRITOS",
+            "children": [
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 19,
+                    "display": "ARROZ INLFADO"
+                }
+            ]
+        },
+        "6": {
+            "id": 6,
+            "nombre": "REBUJINA SEVILLANAS",
+            "children": [
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 18,
+                    "display": "REBUJINAS"
+                }
+            ]
+        },
+        "5": {
+            "id": 5,
+            "nombre": "PIPAS SEVILLANAS",
+            "children": [
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 15,
+                    "display": "P. SALADAS"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 16,
+                    "display": "P. SIN SAL"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 17,
+                    "display": "P. AGUASAL"
+                }
+            ]
+        },
+        "4": {
+            "id": 4,
+            "nombre": "PICOS LOS ROSALES",
+            "children": [
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 14,
+                    "display": "PICOS VIOLINES"
+                }
+            ]
+        },
+        "3": {
+            "id": 3,
+            "nombre": "APERTITIVOS",
+            "children": [
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 13,
+                    "display": "KONITOS"
+                }
+            ]
+        },
+        "2": {
+            "id": 2,
+            "nombre": "PATATAS",
+            "children": [
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 2,
+                    "display": "JAMON 140 G"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 3,
+                    "display": "CLASICA 150G"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 4,
+                    "display": "PAT YORK QUESO"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 5,
+                    "display": "AJILLO 140G"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 6,
+                    "display": "LISA SAL PEQ"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 7,
+                    "display": "ONDULADA PLAYA"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 8,
+                    "display": "TIRITAS"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 9,
+                    "display": "JAMON 70G"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 10,
+                    "display": "CARTUCHO"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 11,
+                    "display": "METALIZADAS"
+                },
+                {
+                    "level": 2,
+                    "seguridad": 0,
+                    "target": "",
+                    "path": 12,
+                    "display": "PAT BARBACOA"
+                }
+            ]
+        }
+    },
+    "current_category": 17,
+    "products": [
+        {
+            "id": "49",
+            "catalogo_id": null,
+            "tipo_catalogo_id": "0",
+            "atributo_id": null,
+            "producto_referencia": "201",
+            "producto_nombre": "EL VALLE SUPREME 110GR",
+            "producto__combinacion_referencia": null,
+            "producto__combinacion_nombre": null,
+            "ean": "",
+            "codigo_estado": "ACT",
+            "fecha_alta": "2025-05-30",
+            "fecha_baja": "0000-00-00",
+            "coste": "6.500000",
+            "precio": "8.181818",
+            "precio_pvp": "9",
+            "precio_mayorista": "0",
+            "precio_pvp_mayorista": "0",
+            "precio_pvp_web": "0",
+            "precio_web": "0",
+            "stock_minimo": "15",
+            "pedido_minimo": "0",
+            "iva": "10.00",
+            "cuenta_id": "",
+            "nombre_atributo": null,
+            "color": null,
+            "extra": null,
+            "nombre_grupo_atributo": null,
+            "grupo_atributo_id": null,
+            "is_combinacion": "0",
+            "publica_online": "2",
+            "nombre_tipo_catalogo": null,
+            "ref_nombre": "201 - EL VALLE SUPREME 110GR",
+            "producto_nombre_atributo": "EL VALLE SUPREME 110GR",
+            "producto_nombre_resumido_atributo": "EL VALLE SUPREME",
+            "marca_id": "13",
+            "descripcion": "PATATAS SUPREME 10 UD\/ 110 GR",
+            "unidad_medida_tipo": "Unida",
+            "unidad_medida_valor": "0",
+            "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fad83a22ddfee9e7bad9ca0c38f63e495.jpg",
+            "thumbail": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fad83a22ddfee9e7bad9ca0c38f63e495.jpg",
+            "codigo_interno": "",
+            "unidades_medida_nombre": null,
+            "img": [
+                {
+                    "id": "11",
+                    "table_database": "catalogo",
+                    "table_id": "49",
+                    "file_name": "SUPREME.jpg",
+                    "file_hash": "ad83a22ddfee9e7bad9ca0c38f63e495.jpg",
+                    "type": "imagenPrincipalProducto",
+                    "path": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fad83a22ddfee9e7bad9ca0c38f63e495.jpg",
+                    "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fad83a22ddfee9e7bad9ca0c38f63e495.jpg"
+                }
+            ]
+        },
+        {
+            "id": "50",
+            "catalogo_id": null,
+            "tipo_catalogo_id": "0",
+            "atributo_id": null,
+            "producto_referencia": "202",
+            "producto_nombre": "EL VALLE A GRANEL 500GR",
+            "producto__combinacion_referencia": null,
+            "producto__combinacion_nombre": null,
+            "ean": "",
+            "codigo_estado": "ACT",
+            "fecha_alta": "2025-05-31",
+            "fecha_baja": "0000-00-00",
+            "coste": "15.000000",
+            "precio": "15.454545",
+            "precio_pvp": "17",
+            "precio_mayorista": "0",
+            "precio_pvp_mayorista": "0",
+            "precio_pvp_web": "0",
+            "precio_web": "0",
+            "stock_minimo": "5",
+            "pedido_minimo": "0",
+            "iva": "10.00",
+            "cuenta_id": "",
+            "nombre_atributo": null,
+            "color": null,
+            "extra": null,
+            "nombre_grupo_atributo": null,
+            "grupo_atributo_id": null,
+            "is_combinacion": "0",
+            "publica_online": "2",
+            "nombre_tipo_catalogo": null,
+            "ref_nombre": "202 - EL VALLE A GRANEL 500GR",
+            "producto_nombre_atributo": "EL VALLE A GRANEL 500GR",
+            "producto_nombre_resumido_atributo": "EL VALLE A GRANEL",
+            "marca_id": "13",
+            "descripcion": "PATATAS GRANEL 6 UDS\/ 500 GR",
+            "unidad_medida_tipo": "Unida",
+            "unidad_medida_valor": "0",
+            "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F7dcc0414fda21aeff2ba8697b4618976.jpg",
+            "thumbail": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F7dcc0414fda21aeff2ba8697b4618976.jpg",
+            "codigo_interno": "",
+            "unidades_medida_nombre": null,
+            "img": [
+                {
+                    "id": "77",
+                    "table_database": "catalogo",
+                    "table_id": "50",
+                    "file_name": "GRANEL-VALLE.jpg",
+                    "file_hash": "7dcc0414fda21aeff2ba8697b4618976.jpg",
+                    "type": "imagenPrincipalProducto",
+                    "path": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F7dcc0414fda21aeff2ba8697b4618976.jpg",
+                    "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F7dcc0414fda21aeff2ba8697b4618976.jpg"
+                }
+            ]
+        },
+        {
+            "id": "51",
+            "catalogo_id": null,
+            "tipo_catalogo_id": "0",
+            "atributo_id": null,
+            "producto_referencia": "203",
+            "producto_nombre": "EL VALLE PATATAS LIGHT",
+            "producto__combinacion_referencia": null,
+            "producto__combinacion_nombre": null,
+            "ean": "",
+            "codigo_estado": "ACT",
+            "fecha_alta": "2025-05-31",
+            "fecha_baja": "0000-00-00",
+            "coste": "6.500000",
+            "precio": "7.727273",
+            "precio_pvp": "8.5",
+            "precio_mayorista": "0",
+            "precio_pvp_mayorista": "0",
+            "precio_pvp_web": "0",
+            "precio_web": "0",
+            "stock_minimo": "3",
+            "pedido_minimo": "0",
+            "iva": "10.00",
+            "cuenta_id": "",
+            "nombre_atributo": null,
+            "color": null,
+            "extra": null,
+            "nombre_grupo_atributo": null,
+            "grupo_atributo_id": null,
+            "is_combinacion": "0",
+            "publica_online": "2",
+            "nombre_tipo_catalogo": null,
+            "ref_nombre": "203 - EL VALLE PATATAS LIGHT",
+            "producto_nombre_atributo": "EL VALLE PATATAS LIGHT",
+            "producto_nombre_resumido_atributo": "EL VALLE LIGHT",
+            "marca_id": "13",
+            "descripcion": "PATATAS LIGHT 9 UDS\/ 100 GR",
+            "unidad_medida_tipo": "Unida",
+            "unidad_medida_valor": "0",
+            "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fda235f91d30e31706a5ef9ce013f06d3.jpg",
+            "thumbail": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fda235f91d30e31706a5ef9ce013f06d3.jpg",
+            "codigo_interno": "",
+            "unidades_medida_nombre": null,
+            "img": [
+                {
+                    "id": "46",
+                    "table_database": "catalogo",
+                    "table_id": "51",
+                    "file_name": "chic-valle.jpg",
+                    "file_hash": "da235f91d30e31706a5ef9ce013f06d3.jpg",
+                    "type": "imagenPrincipalProducto",
+                    "path": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fda235f91d30e31706a5ef9ce013f06d3.jpg",
+                    "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fda235f91d30e31706a5ef9ce013f06d3.jpg"
+                }
+            ]
+        },
+        {
+            "id": "52",
+            "catalogo_id": null,
+            "tipo_catalogo_id": "0",
+            "atributo_id": null,
+            "producto_referencia": "204",
+            "producto_nombre": "EL VALLE COCKTAIL 120GR",
+            "producto__combinacion_referencia": null,
+            "producto__combinacion_nombre": null,
+            "ean": "",
+            "codigo_estado": "ACT",
+            "fecha_alta": "2025-05-31",
+            "fecha_baja": "0000-00-00",
+            "coste": "6.500000",
+            "precio": "7.727273",
+            "precio_pvp": "8.5",
+            "precio_mayorista": "0",
+            "precio_pvp_mayorista": "0",
+            "precio_pvp_web": "0",
+            "precio_web": "0",
+            "stock_minimo": "3",
+            "pedido_minimo": "0",
+            "iva": "10.00",
+            "cuenta_id": "",
+            "nombre_atributo": null,
+            "color": null,
+            "extra": null,
+            "nombre_grupo_atributo": null,
+            "grupo_atributo_id": null,
+            "is_combinacion": "0",
+            "publica_online": "2",
+            "nombre_tipo_catalogo": null,
+            "ref_nombre": "204 - EL VALLE COCKTAIL 120GR",
+            "producto_nombre_atributo": "EL VALLE COCKTAIL 120GR",
+            "producto_nombre_resumido_atributo": "EL VALLE COCKTAIL",
+            "marca_id": "13",
+            "descripcion": "COCKTAIL 9 UD\/120 GR",
+            "unidad_medida_tipo": "Unida",
+            "unidad_medida_valor": "0",
+            "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F0152205b9d33dab66b0b6f7a970c8aa4.jpg",
+            "thumbail": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F0152205b9d33dab66b0b6f7a970c8aa4.jpg",
+            "codigo_interno": "",
+            "unidades_medida_nombre": null,
+            "img": [
+                {
+                    "id": "50",
+                    "table_database": "catalogo",
+                    "table_id": "52",
+                    "file_name": "COKTAIL-VALLE.jpg",
+                    "file_hash": "0152205b9d33dab66b0b6f7a970c8aa4.jpg",
+                    "type": "imagenPrincipalProducto",
+                    "path": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F0152205b9d33dab66b0b6f7a970c8aa4.jpg",
+                    "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F0152205b9d33dab66b0b6f7a970c8aa4.jpg"
+                }
+            ]
+        },
+        {
+            "id": "53",
+            "catalogo_id": null,
+            "tipo_catalogo_id": "0",
+            "atributo_id": null,
+            "producto_referencia": "205",
+            "producto_nombre": "EL VALLE SUPREME 45 GR",
+            "producto__combinacion_referencia": null,
+            "producto__combinacion_nombre": null,
+            "ean": "",
+            "codigo_estado": "ACT",
+            "fecha_alta": "2025-05-31",
+            "fecha_baja": "0000-00-00",
+            "coste": "8.000000",
+            "precio": "9.090909",
+            "precio_pvp": "10",
+            "precio_mayorista": "0",
+            "precio_pvp_mayorista": "0",
+            "precio_pvp_web": "0",
+            "precio_web": "0",
+            "stock_minimo": "3",
+            "pedido_minimo": "0",
+            "iva": "10.00",
+            "cuenta_id": "",
+            "nombre_atributo": null,
+            "color": null,
+            "extra": null,
+            "nombre_grupo_atributo": null,
+            "grupo_atributo_id": null,
+            "is_combinacion": "0",
+            "publica_online": "2",
+            "nombre_tipo_catalogo": null,
+            "ref_nombre": "205 - EL VALLE SUPREME 45 GR",
+            "producto_nombre_atributo": "EL VALLE SUPREME 45 GR",
+            "producto_nombre_resumido_atributo": "EL VALLE SUPREME 45GR",
+            "marca_id": "13",
+            "descripcion": "PATATAS SUPREME 24 UDS\/ 45 GR",
+            "unidad_medida_tipo": "Unida",
+            "unidad_medida_valor": "0",
+            "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fce96d1e790da9efc655814d54cebb831.jpg",
+            "thumbail": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fce96d1e790da9efc655814d54cebb831.jpg",
+            "codigo_interno": "",
+            "unidades_medida_nombre": null,
+            "img": [
+                {
+                    "id": "51",
+                    "table_database": "catalogo",
+                    "table_id": "53",
+                    "file_name": "SUPREME.jpg",
+                    "file_hash": "ce96d1e790da9efc655814d54cebb831.jpg",
+                    "type": "imagenPrincipalProducto",
+                    "path": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fce96d1e790da9efc655814d54cebb831.jpg",
+                    "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fce96d1e790da9efc655814d54cebb831.jpg"
+                }
+            ]
+        },
+        {
+            "id": "54",
+            "catalogo_id": null,
+            "tipo_catalogo_id": "0",
+            "atributo_id": null,
+            "producto_referencia": "206",
+            "producto_nombre": "EL VALLE JAMON 120 GR",
+            "producto__combinacion_referencia": null,
+            "producto__combinacion_nombre": null,
+            "ean": "",
+            "codigo_estado": "ACT",
+            "fecha_alta": "2025-05-31",
+            "fecha_baja": "0000-00-00",
+            "coste": "8.000000",
+            "precio": "8.181818",
+            "precio_pvp": "9",
+            "precio_mayorista": "0",
+            "precio_pvp_mayorista": "0",
+            "precio_pvp_web": "0",
+            "precio_web": "0",
+            "stock_minimo": "5",
+            "pedido_minimo": "0",
+            "iva": "10.00",
+            "cuenta_id": "",
+            "nombre_atributo": null,
+            "color": null,
+            "extra": null,
+            "nombre_grupo_atributo": null,
+            "grupo_atributo_id": null,
+            "is_combinacion": "0",
+            "publica_online": "2",
+            "nombre_tipo_catalogo": null,
+            "ref_nombre": "206 - EL VALLE JAMON 120 GR",
+            "producto_nombre_atributo": "EL VALLE JAMON 120 GR",
+            "producto_nombre_resumido_atributo": "EL VALLE JAMON",
+            "marca_id": "13",
+            "descripcion": "PATATAS JAMON 10 UD\/120 GRS",
+            "unidad_medida_tipo": "Unida",
+            "unidad_medida_valor": "0",
+            "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F53acd99db6bd46927e28a147a91292d4.jpg",
+            "thumbail": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F53acd99db6bd46927e28a147a91292d4.jpg",
+            "codigo_interno": "",
+            "unidades_medida_nombre": null,
+            "img": [
+                {
+                    "id": "47",
+                    "table_database": "catalogo",
+                    "table_id": "54",
+                    "file_name": "JAMON-VALLE.jpg",
+                    "file_hash": "53acd99db6bd46927e28a147a91292d4.jpg",
+                    "type": "imagenPrincipalProducto",
+                    "path": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F53acd99db6bd46927e28a147a91292d4.jpg",
+                    "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F53acd99db6bd46927e28a147a91292d4.jpg"
+                }
+            ]
+        },
+        {
+            "id": "55",
+            "catalogo_id": null,
+            "tipo_catalogo_id": "0",
+            "atributo_id": null,
+            "producto_referencia": "207",
+            "producto_nombre": "EL VALLE CAMPESINAS 120 GR",
+            "producto__combinacion_referencia": null,
+            "producto__combinacion_nombre": null,
+            "ean": "",
+            "codigo_estado": "ACT",
+            "fecha_alta": "2025-05-30",
+            "fecha_baja": "0000-00-00",
+            "coste": "8.000000",
+            "precio": "8.181818",
+            "precio_pvp": "9",
+            "precio_mayorista": "0",
+            "precio_pvp_mayorista": "0",
+            "precio_pvp_web": "0",
+            "precio_web": "0",
+            "stock_minimo": "5",
+            "pedido_minimo": "0",
+            "iva": "10.00",
+            "cuenta_id": "",
+            "nombre_atributo": null,
+            "color": null,
+            "extra": null,
+            "nombre_grupo_atributo": null,
+            "grupo_atributo_id": null,
+            "is_combinacion": "0",
+            "publica_online": "2",
+            "nombre_tipo_catalogo": null,
+            "ref_nombre": "207 - EL VALLE CAMPESINAS 120 GR",
+            "producto_nombre_atributo": "EL VALLE CAMPESINAS 120 GR",
+            "producto_nombre_resumido_atributo": "EL VALLE CAMPESINAS",
+            "marca_id": "13",
+            "descripcion": "PATATAS CAMPESINAS 10 UD\/ 120 GR",
+            "unidad_medida_tipo": "Unida",
+            "unidad_medida_valor": "0",
+            "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Feb411283ee785514463c9e3c60df48ca.jpg",
+            "thumbail": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Feb411283ee785514463c9e3c60df48ca.jpg",
+            "codigo_interno": "",
+            "unidades_medida_nombre": null,
+            "img": [
+                {
+                    "id": "13",
+                    "table_database": "catalogo",
+                    "table_id": "55",
+                    "file_name": "CAMPESINAS-VALLE.jpg",
+                    "file_hash": "eb411283ee785514463c9e3c60df48ca.jpg",
+                    "type": "imagenPrincipalProducto",
+                    "path": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Feb411283ee785514463c9e3c60df48ca.jpg",
+                    "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Feb411283ee785514463c9e3c60df48ca.jpg"
+                }
+            ]
+        },
+        {
+            "id": "56",
+            "catalogo_id": null,
+            "tipo_catalogo_id": "0",
+            "atributo_id": null,
+            "producto_referencia": "208",
+            "producto_nombre": "EL VALLE HUEVO FRITO 120GR",
+            "producto__combinacion_referencia": null,
+            "producto__combinacion_nombre": null,
+            "ean": "",
+            "codigo_estado": "ACT",
+            "fecha_alta": "2025-05-30",
+            "fecha_baja": "0000-00-00",
+            "coste": "8.000000",
+            "precio": "8.181818",
+            "precio_pvp": "9",
+            "precio_mayorista": "0",
+            "precio_pvp_mayorista": "0",
+            "precio_pvp_web": "0",
+            "precio_web": "0",
+            "stock_minimo": "5",
+            "pedido_minimo": "0",
+            "iva": "10.00",
+            "cuenta_id": "",
+            "nombre_atributo": null,
+            "color": null,
+            "extra": null,
+            "nombre_grupo_atributo": null,
+            "grupo_atributo_id": null,
+            "is_combinacion": "0",
+            "publica_online": "2",
+            "nombre_tipo_catalogo": null,
+            "ref_nombre": "208 - EL VALLE HUEVO FRITO 120GR",
+            "producto_nombre_atributo": "EL VALLE HUEVO FRITO 120GR",
+            "producto_nombre_resumido_atributo": "EL VALLE HUEVO FRITO",
+            "marca_id": "13",
+            "descripcion": "PATATAS HUEVO FRITO 10 UD\/ 120 GR",
+            "unidad_medida_tipo": "Unida",
+            "unidad_medida_valor": "0",
+            "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F717dc1e3f17f173e248dc4913682a1da.jpg",
+            "thumbail": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F717dc1e3f17f173e248dc4913682a1da.jpg",
+            "codigo_interno": "",
+            "unidades_medida_nombre": null,
+            "img": [
+                {
+                    "id": "12",
+                    "table_database": "catalogo",
+                    "table_id": "56",
+                    "file_name": "HUEVO.jpg",
+                    "file_hash": "717dc1e3f17f173e248dc4913682a1da.jpg",
+                    "type": "imagenPrincipalProducto",
+                    "path": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F717dc1e3f17f173e248dc4913682a1da.jpg",
+                    "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F717dc1e3f17f173e248dc4913682a1da.jpg"
+                }
+            ]
+        },
+        {
+            "id": "57",
+            "catalogo_id": null,
+            "tipo_catalogo_id": "0",
+            "atributo_id": null,
+            "producto_referencia": "209",
+            "producto_nombre": "EL VALLE AL PUNTO DE SAL 120GR",
+            "producto__combinacion_referencia": null,
+            "producto__combinacion_nombre": null,
+            "ean": "",
+            "codigo_estado": "ACT",
+            "fecha_alta": "2025-05-31",
+            "fecha_baja": "0000-00-00",
+            "coste": "7.000000",
+            "precio": "8.181818",
+            "precio_pvp": "9",
+            "precio_mayorista": "0",
+            "precio_pvp_mayorista": "0",
+            "precio_pvp_web": "0",
+            "precio_web": "0",
+            "stock_minimo": "5",
+            "pedido_minimo": "0",
+            "iva": "10.00",
+            "cuenta_id": "",
+            "nombre_atributo": null,
+            "color": null,
+            "extra": null,
+            "nombre_grupo_atributo": null,
+            "grupo_atributo_id": null,
+            "is_combinacion": "0",
+            "publica_online": "2",
+            "nombre_tipo_catalogo": null,
+            "ref_nombre": "209 - EL VALLE AL PUNTO DE SAL 120GR",
+            "producto_nombre_atributo": "EL VALLE AL PUNTO DE SAL 120GR",
+            "producto_nombre_resumido_atributo": "EL VALLE PUNTO DE SAL",
+            "marca_id": "13",
+            "descripcion": "PATATAS PUNTO DE SAL 10 UDS\/120 GRS",
+            "unidad_medida_tipo": "Unida",
+            "unidad_medida_valor": "0",
+            "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F1e55e0c4ff2c94badc7f2245ea09ea9f.jpg",
+            "thumbail": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F1e55e0c4ff2c94badc7f2245ea09ea9f.jpg",
+            "codigo_interno": "",
+            "unidades_medida_nombre": null,
+            "img": [
+                {
+                    "id": "42",
+                    "table_database": "catalogo",
+                    "table_id": "57",
+                    "file_name": "PUNTO-SAL-VALLE.jpg",
+                    "file_hash": "1e55e0c4ff2c94badc7f2245ea09ea9f.jpg",
+                    "type": "imagenPrincipalProducto",
+                    "path": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F1e55e0c4ff2c94badc7f2245ea09ea9f.jpg",
+                    "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F1e55e0c4ff2c94badc7f2245ea09ea9f.jpg"
+                }
+            ]
+        },
+        {
+            "id": "58",
+            "catalogo_id": null,
+            "tipo_catalogo_id": "0",
+            "atributo_id": null,
+            "producto_referencia": "210",
+            "producto_nombre": "EL VALLE ONDULADAS 140GR",
+            "producto__combinacion_referencia": null,
+            "producto__combinacion_nombre": null,
+            "ean": "",
+            "codigo_estado": "ACT",
+            "fecha_alta": "2025-05-31",
+            "fecha_baja": "0000-00-00",
+            "coste": "6.500000",
+            "precio": "8.181818",
+            "precio_pvp": "9",
+            "precio_mayorista": "0",
+            "precio_pvp_mayorista": "0",
+            "precio_pvp_web": "0",
+            "precio_web": "0",
+            "stock_minimo": "5",
+            "pedido_minimo": "0",
+            "iva": "10.00",
+            "cuenta_id": "",
+            "nombre_atributo": null,
+            "color": null,
+            "extra": null,
+            "nombre_grupo_atributo": null,
+            "grupo_atributo_id": null,
+            "is_combinacion": "0",
+            "publica_online": "2",
+            "nombre_tipo_catalogo": null,
+            "ref_nombre": "210 - EL VALLE ONDULADAS 140GR",
+            "producto_nombre_atributo": "EL VALLE ONDULADAS 140GR",
+            "producto_nombre_resumido_atributo": "EL VALLE ONDULADAS",
+            "marca_id": "13",
+            "descripcion": "PATATAS ONDULADAS 10 UDS\/ 140GR",
+            "unidad_medida_tipo": "Unida",
+            "unidad_medida_valor": "0",
+            "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F21d7c5cca97a4d9019d1404c357ce777.jpg",
+            "thumbail": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F21d7c5cca97a4d9019d1404c357ce777.jpg",
+            "codigo_interno": "",
+            "unidades_medida_nombre": null,
+            "img": [
+                {
+                    "id": "54",
+                    "table_database": "catalogo",
+                    "table_id": "58",
+                    "file_name": "ONDULADAS-VALLE.jpg",
+                    "file_hash": "21d7c5cca97a4d9019d1404c357ce777.jpg",
+                    "type": "imagenPrincipalProducto",
+                    "path": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F21d7c5cca97a4d9019d1404c357ce777.jpg",
+                    "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F21d7c5cca97a4d9019d1404c357ce777.jpg"
+                }
+            ]
+        },
+        {
+            "id": "59",
+            "catalogo_id": null,
+            "tipo_catalogo_id": "0",
+            "atributo_id": null,
+            "producto_referencia": "211",
+            "producto_nombre": "EL VALLE SIN SAL 150GR",
+            "producto__combinacion_referencia": null,
+            "producto__combinacion_nombre": null,
+            "ean": "",
+            "codigo_estado": "ACT",
+            "fecha_alta": "2025-05-31",
+            "fecha_baja": "0000-00-00",
+            "coste": "7.000000",
+            "precio": "8.181818",
+            "precio_pvp": "9",
+            "precio_mayorista": "0",
+            "precio_pvp_mayorista": "0",
+            "precio_pvp_web": "0",
+            "precio_web": "0",
+            "stock_minimo": "5",
+            "pedido_minimo": "0",
+            "iva": "10.00",
+            "cuenta_id": "",
+            "nombre_atributo": null,
+            "color": null,
+            "extra": null,
+            "nombre_grupo_atributo": null,
+            "grupo_atributo_id": null,
+            "is_combinacion": "0",
+            "publica_online": "2",
+            "nombre_tipo_catalogo": null,
+            "ref_nombre": "211 - EL VALLE SIN SAL 150GR",
+            "producto_nombre_atributo": "EL VALLE SIN SAL 150GR",
+            "producto_nombre_resumido_atributo": "EL VALLE SIN SAL",
+            "marca_id": "13",
+            "descripcion": "PATATAS SIN SAL 8 UDS\/ 150 GRS",
+            "unidad_medida_tipo": "Unida",
+            "unidad_medida_valor": "0",
+            "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F7937cd6b952b2376185bf44048067cce.jpg",
+            "thumbail": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F7937cd6b952b2376185bf44048067cce.jpg",
+            "codigo_interno": "",
+            "unidades_medida_nombre": null,
+            "img": [
+                {
+                    "id": "55",
+                    "table_database": "catalogo",
+                    "table_id": "59",
+                    "file_name": "SIN-SAL-VALLE.jpg",
+                    "file_hash": "7937cd6b952b2376185bf44048067cce.jpg",
+                    "type": "imagenPrincipalProducto",
+                    "path": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F7937cd6b952b2376185bf44048067cce.jpg",
+                    "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F7937cd6b952b2376185bf44048067cce.jpg"
+                }
+            ]
+        },
+        {
+            "id": "60",
+            "catalogo_id": null,
+            "tipo_catalogo_id": "0",
+            "atributo_id": null,
+            "producto_referencia": "212",
+            "producto_nombre": "EL VALLE CAMPESINAS 45 GR",
+            "producto__combinacion_referencia": null,
+            "producto__combinacion_nombre": null,
+            "ean": "",
+            "codigo_estado": "ACT",
+            "fecha_alta": "2025-05-31",
+            "fecha_baja": "0000-00-00",
+            "coste": "4.000000",
+            "precio": "4.545455",
+            "precio_pvp": "5",
+            "precio_mayorista": "0",
+            "precio_pvp_mayorista": "0",
+            "precio_pvp_web": "0",
+            "precio_web": "0",
+            "stock_minimo": "2",
+            "pedido_minimo": "0",
+            "iva": "10.00",
+            "cuenta_id": "",
+            "nombre_atributo": null,
+            "color": null,
+            "extra": null,
+            "nombre_grupo_atributo": null,
+            "grupo_atributo_id": null,
+            "is_combinacion": "0",
+            "publica_online": "2",
+            "nombre_tipo_catalogo": null,
+            "ref_nombre": "212 - EL VALLE CAMPESINAS 45 GR",
+            "producto_nombre_atributo": "EL VALLE CAMPESINAS 45 GR",
+            "producto_nombre_resumido_atributo": "EL VALLE CAMPESINAS 45GR",
+            "marca_id": "13",
+            "descripcion": "PATATAS CAMPESINAS 12 UD\/ 45 GRS",
+            "unidad_medida_tipo": "Unida",
+            "unidad_medida_valor": "0",
+            "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fa92cd7f2ab75611a1a107daed47c805d.jpg",
+            "thumbail": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fa92cd7f2ab75611a1a107daed47c805d.jpg",
+            "codigo_interno": "",
+            "unidades_medida_nombre": null,
+            "img": [
+                {
+                    "id": "52",
+                    "table_database": "catalogo",
+                    "table_id": "60",
+                    "file_name": "CAMPESINAS-VALLE.jpg",
+                    "file_hash": "a92cd7f2ab75611a1a107daed47c805d.jpg",
+                    "type": "imagenPrincipalProducto",
+                    "path": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fa92cd7f2ab75611a1a107daed47c805d.jpg",
+                    "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fa92cd7f2ab75611a1a107daed47c805d.jpg"
+                }
+            ]
+        },
+        {
+            "id": "61",
+            "catalogo_id": null,
+            "tipo_catalogo_id": "0",
+            "atributo_id": null,
+            "producto_referencia": "213",
+            "producto_nombre": "EL VALLE JAMON 45 GR",
+            "producto__combinacion_referencia": null,
+            "producto__combinacion_nombre": null,
+            "ean": "",
+            "codigo_estado": "ACT",
+            "fecha_alta": "2025-05-31",
+            "fecha_baja": "0000-00-00",
+            "coste": "4.000000",
+            "precio": "4.545455",
+            "precio_pvp": "5",
+            "precio_mayorista": "0",
+            "precio_pvp_mayorista": "0",
+            "precio_pvp_web": "0",
+            "precio_web": "0",
+            "stock_minimo": "2",
+            "pedido_minimo": "0",
+            "iva": "10.00",
+            "cuenta_id": "",
+            "nombre_atributo": null,
+            "color": null,
+            "extra": null,
+            "nombre_grupo_atributo": null,
+            "grupo_atributo_id": null,
+            "is_combinacion": "0",
+            "publica_online": "2",
+            "nombre_tipo_catalogo": null,
+            "ref_nombre": "213 - EL VALLE JAMON 45 GR",
+            "producto_nombre_atributo": "EL VALLE JAMON 45 GR",
+            "producto_nombre_resumido_atributo": "EL VALLE JAMON 45GR",
+            "marca_id": "13",
+            "descripcion": "PATATAS JAMON 12 UD\/ 45 GRS",
+            "unidad_medida_tipo": "Unida",
+            "unidad_medida_valor": "0",
+            "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F2fdaa87f28ccf2012f9d42a6454a6ba2.jpg",
+            "thumbail": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F2fdaa87f28ccf2012f9d42a6454a6ba2.jpg",
+            "codigo_interno": "",
+            "unidades_medida_nombre": null,
+            "img": [
+                {
+                    "id": "53",
+                    "table_database": "catalogo",
+                    "table_id": "61",
+                    "file_name": "JAMON-VALLE.jpg",
+                    "file_hash": "2fdaa87f28ccf2012f9d42a6454a6ba2.jpg",
+                    "type": "imagenPrincipalProducto",
+                    "path": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F2fdaa87f28ccf2012f9d42a6454a6ba2.jpg",
+                    "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F2fdaa87f28ccf2012f9d42a6454a6ba2.jpg"
+                }
+            ]
+        },
+        {
+            "id": "62",
+            "catalogo_id": null,
+            "tipo_catalogo_id": "0",
+            "atributo_id": null,
+            "producto_referencia": "214",
+            "producto_nombre": "EL VALLE KUADRADITOS 120GR",
+            "producto__combinacion_referencia": null,
+            "producto__combinacion_nombre": null,
+            "ean": "",
+            "codigo_estado": "ACT",
+            "fecha_alta": "2025-05-31",
+            "fecha_baja": "0000-00-00",
+            "coste": "9.500000",
+            "precio": "10.454545",
+            "precio_pvp": "11.5",
+            "precio_mayorista": "0",
+            "precio_pvp_mayorista": "0",
+            "precio_pvp_web": "0",
+            "precio_web": "0",
+            "stock_minimo": "10",
+            "pedido_minimo": "0",
+            "iva": "10.00",
+            "cuenta_id": "",
+            "nombre_atributo": null,
+            "color": null,
+            "extra": null,
+            "nombre_grupo_atributo": null,
+            "grupo_atributo_id": null,
+            "is_combinacion": "0",
+            "publica_online": "2",
+            "nombre_tipo_catalogo": null,
+            "ref_nombre": "214 - EL VALLE KUADRADITOS 120GR",
+            "producto_nombre_atributo": "EL VALLE KUADRADITOS 120GR",
+            "producto_nombre_resumido_atributo": "EL VALLE KUADRADITOS",
+            "marca_id": "13",
+            "descripcion": "APERITIVOS CUADRADITOS 12 UD\/120 GRS",
+            "unidad_medida_tipo": "Unida",
+            "unidad_medida_valor": "0",
+            "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fb860eef9e05f8fce95e2b87994bf024d.jpg",
+            "thumbail": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fb860eef9e05f8fce95e2b87994bf024d.jpg",
+            "codigo_interno": "",
+            "unidades_medida_nombre": null,
+            "img": [
+                {
+                    "id": "45",
+                    "table_database": "catalogo",
+                    "table_id": "62",
+                    "file_name": "KUADRADITOS-VALLE.jpg",
+                    "file_hash": "b860eef9e05f8fce95e2b87994bf024d.jpg",
+                    "type": "imagenPrincipalProducto",
+                    "path": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fb860eef9e05f8fce95e2b87994bf024d.jpg",
+                    "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2Fb860eef9e05f8fce95e2b87994bf024d.jpg"
+                }
+            ]
+        },
+        {
+            "id": "63",
+            "catalogo_id": null,
+            "tipo_catalogo_id": "0",
+            "atributo_id": null,
+            "producto_referencia": "215",
+            "producto_nombre": "EL VALLE COCKTAIL SUPREME 120GR",
+            "producto__combinacion_referencia": null,
+            "producto__combinacion_nombre": null,
+            "ean": "",
+            "codigo_estado": "ACT",
+            "fecha_alta": "2025-05-28",
+            "fecha_baja": "0000-00-00",
+            "coste": "9.500000",
+            "precio": "10.454545",
+            "precio_pvp": "11.5",
+            "precio_mayorista": "0",
+            "precio_pvp_mayorista": "0",
+            "precio_pvp_web": "0",
+            "precio_web": "0",
+            "stock_minimo": "5",
+            "pedido_minimo": "0",
+            "iva": "10.00",
+            "cuenta_id": "",
+            "nombre_atributo": null,
+            "color": null,
+            "extra": null,
+            "nombre_grupo_atributo": null,
+            "grupo_atributo_id": null,
+            "is_combinacion": "0",
+            "publica_online": "2",
+            "nombre_tipo_catalogo": null,
+            "ref_nombre": "215 - EL VALLE COCKTAIL SUPREME 120GR",
+            "producto_nombre_atributo": "EL VALLE COCKTAIL SUPREME 120GR",
+            "producto_nombre_resumido_atributo": "EL VALLE COCKTAIL SUPREME",
+            "marca_id": "13",
+            "descripcion": "COCKTAIL\u00a0SUPREME 12 UD\/120 GRS",
+            "unidad_medida_tipo": "Unida",
+            "unidad_medida_valor": "0",
+            "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F1191f04580c0f9964699df1674286255.jpg",
+            "thumbail": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F1191f04580c0f9964699df1674286255.jpg",
+            "codigo_interno": "",
+            "unidades_medida_nombre": null,
+            "img": [
+                {
+                    "id": "9",
+                    "table_database": "catalogo",
+                    "table_id": "63",
+                    "file_name": "ELVALLE.jpg",
+                    "file_hash": "1191f04580c0f9964699df1674286255.jpg",
+                    "type": "imagenPrincipalProducto",
+                    "path": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F1191f04580c0f9964699df1674286255.jpg",
+                    "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F1191f04580c0f9964699df1674286255.jpg"
+                }
+            ]
+        },
+        {
+            "id": "64",
+            "catalogo_id": null,
+            "tipo_catalogo_id": "0",
+            "atributo_id": null,
+            "producto_referencia": "216",
+            "producto_nombre": "EL VALLE RUSTICAS 380GR",
+            "producto__combinacion_referencia": null,
+            "producto__combinacion_nombre": null,
+            "ean": "",
+            "codigo_estado": "ACT",
+            "fecha_alta": "2025-05-31",
+            "fecha_baja": "0000-00-00",
+            "coste": "13.000000",
+            "precio": "13.636364",
+            "precio_pvp": "15",
+            "precio_mayorista": "0",
+            "precio_pvp_mayorista": "0",
+            "precio_pvp_web": "0",
+            "precio_web": "0",
+            "stock_minimo": "3",
+            "pedido_minimo": "0",
+            "iva": "10.00",
+            "cuenta_id": "",
+            "nombre_atributo": null,
+            "color": null,
+            "extra": null,
+            "nombre_grupo_atributo": null,
+            "grupo_atributo_id": null,
+            "is_combinacion": "0",
+            "publica_online": "2",
+            "nombre_tipo_catalogo": null,
+            "ref_nombre": "216 - EL VALLE RUSTICAS 380GR",
+            "producto_nombre_atributo": "EL VALLE RUSTICAS 380GR",
+            "producto_nombre_resumido_atributo": "EL VALLE RUSTICAS",
+            "marca_id": "13",
+            "descripcion": "PATATAS RUSTICAS 380 GRS\/6UDS",
+            "unidad_medida_tipo": "Unida",
+            "unidad_medida_valor": "0",
+            "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F79cd34dd7fe5e5d2220c95369853524f.jpg",
+            "thumbail": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F79cd34dd7fe5e5d2220c95369853524f.jpg",
+            "codigo_interno": "",
+            "unidades_medida_nombre": null,
+            "img": [
+                {
+                    "id": "41",
+                    "table_database": "catalogo",
+                    "table_id": "64",
+                    "file_name": "RUSTICA-VALLE.jpg",
+                    "file_hash": "79cd34dd7fe5e5d2220c95369853524f.jpg",
+                    "type": "imagenPrincipalProducto",
+                    "path": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F79cd34dd7fe5e5d2220c95369853524f.jpg",
+                    "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F79cd34dd7fe5e5d2220c95369853524f.jpg"
+                }
+            ]
+        },
+        {
+            "id": "65",
+            "catalogo_id": null,
+            "tipo_catalogo_id": "0",
+            "atributo_id": null,
+            "producto_referencia": "217",
+            "producto_nombre": "EL VALLE PATATAS ACEITE DE OLIVA",
+            "producto__combinacion_referencia": null,
+            "producto__combinacion_nombre": null,
+            "ean": "",
+            "codigo_estado": "ACT",
+            "fecha_alta": "2025-05-31",
+            "fecha_baja": "0000-00-00",
+            "coste": "10.000000",
+            "precio": "11.363636",
+            "precio_pvp": "12.5",
+            "precio_mayorista": "0",
+            "precio_pvp_mayorista": "0",
+            "precio_pvp_web": "0",
+            "precio_web": "0",
+            "stock_minimo": "2",
+            "pedido_minimo": "0",
+            "iva": "10.00",
+            "cuenta_id": "",
+            "nombre_atributo": null,
+            "color": null,
+            "extra": null,
+            "nombre_grupo_atributo": null,
+            "grupo_atributo_id": null,
+            "is_combinacion": "0",
+            "publica_online": "2",
+            "nombre_tipo_catalogo": null,
+            "ref_nombre": "217 - EL VALLE PATATAS ACEITE DE OLIVA",
+            "producto_nombre_atributo": "EL VALLE PATATAS ACEITE DE OLIVA",
+            "producto_nombre_resumido_atributo": "EL VALLE PATATAS OLIVA",
+            "marca_id": "13",
+            "descripcion": "PATATAS OLIVA 10 UD\/120 GRS",
+            "unidad_medida_tipo": "Unida",
+            "unidad_medida_valor": "0",
+            "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F1caf2b136a94a5ddf0234ac2223f6d3c.jpg",
+            "thumbail": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F1caf2b136a94a5ddf0234ac2223f6d3c.jpg",
+            "codigo_interno": "",
+            "unidades_medida_nombre": null,
+            "img": [
+                {
+                    "id": "43",
+                    "table_database": "catalogo",
+                    "table_id": "65",
+                    "file_name": "OLIVA-VALLE.jpg",
+                    "file_hash": "1caf2b136a94a5ddf0234ac2223f6d3c.jpg",
+                    "type": "imagenPrincipalProducto",
+                    "path": "https%3A%2F%2Fev4doc.s3.eu-west-1.amazonaws.com%2Fefrain%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F1caf2b136a94a5ddf0234ac2223f6d3c.jpg",
+                    "amazon_key": "efrain%2F.%2Fdocumentos%2Fefrain%2Fcatalogo%2F%2F1caf2b136a94a5ddf0234ac2223f6d3c.jpg"
+                }
+            ]
+        }
+    ],
+    "show_pbase": null
+}

@@ -5,15 +5,16 @@ import datos from "./Json/nuevo133.json";
 import { useState } from "react";
 
 const productos = datos.custom_products.json_data;
+const datosProductos = datos.products;
 
 type Props = {
 
 }
 
 function App({ }: Props) {
-  const [category, setCategory] = useState(""); // Estado para almacenar las categorias
+  const [category, setCategory] = useState(datos.current_category); // Estado para almacenar las categorias
 
-  const handleSelect = (element: string) => {
+  const handleSelect = (element: number) => {
     setCategory(element); // Actualiza las categorias
     console.log(element);
   };
@@ -24,7 +25,7 @@ function App({ }: Props) {
       <Buscador />
       <div className="row">
         {productos
-          .filter((producto: any) => category == "" || producto.display == category)
+          .filter((producto: any) => producto.path == category)
           .flatMap((producto: any, i: number) =>
             producto.children.map((value: any, j: number) => (
               <div className="col-6 col-md-3 mb-4" key={`${i}-${j}`}>
