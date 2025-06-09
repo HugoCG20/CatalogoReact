@@ -32,8 +32,8 @@ function App() {
     const renderProducts = () => {
         return products
             .filter((category) => category.path == categorySelected)
-            .flatMap((category) =>
-                category.children
+            .flatMap((category) => {
+                const data = category.children
                     .filter((productCategory) => {
                         return dataProducts.some((dataProduct) => {
                             return (
@@ -61,7 +61,7 @@ function App() {
                             <div className="col-6 col-md-3 mb-4" key={`${key}`}>
                                 <Card
                                     // id={Number(result?.id || 0)}
-                                    name={result?.producto_nombre_atributo}
+                                    name={result?.producto_nombre}
                                     image={decodeURIComponent(
                                         result?.img[0]?.path ?? ""
                                     )}
@@ -73,8 +73,22 @@ function App() {
                                 />
                             </div>
                         );
-                    })
-            );
+                    });
+                if (data.length <= 0) {
+                    return (
+                        <div className="col-12 col-md-12">
+                            <div className="card h-100 shadow">
+                                <div className="card-body text-center">
+                                    <h5 className="card-title">
+                                        No existe el producto especificado
+                                    </h5>
+                                </div>
+                            </div>
+                        </div>
+                    );
+                }
+                return data;
+            });
     };
 
     return (
