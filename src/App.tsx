@@ -1,16 +1,49 @@
+import { useState, useEffect } from "react";
+import axios from "axios";
+
+// Componentes
 import Card from "./components/Card";
 import Buscador from "./components/Buscador";
 import FiltroCategorias from "./components/FiltroCategorias";
-import data from "./Json/nuevo133.json";
-import { useState } from "react";
 
-const products = data.custom_products.json_data;
-const dataCategoryList = data.category_list;
-const dataProducts = data.products;
+import type {
+    Product,
+    ProductCategory,
+    Category,
+    Data,
+} from "./interfaces/product";
+
+const instance = axios.create({
+    baseURL: "/", // Compatible con proxy
+    headers: {
+        "Content-Type": "application/json",
+        "x-custom-header": "authorized", // Encabezado personalizado
+    },
+});
 
 function App() {
-    const [categorySelected, setCategory] = useState(data.current_category); // Estado para almacenar las categorias
+    const [data, setData] = useState<Data>({
+        custom_products: { json_data: [] },
+        category_list: {},
+        products: [],
+    });
+
+    const [categorySelected, setCategory] = useState(17); // Estado para almacenar las categorias
     const [search, setSearch] = useState("");
+    const [loading, setLoading] = useState(true); // Estado para manejar
+    useEffect(() => {
+        // Cargar el JSON de facturas desde la ruta del proxy
+        instance
+            .get("/api")
+            .then((response: { data: Data }) => {
+                setData(response.data); // Actualiza el estado con los datos recibidos
+                setLoading(false); // Desactiva el estado de loading
+            })
+            .catch((error: unknown) => {
+                console.error("Error al cargar las facturas:", error);
+                setLoading(false); // Desactiva el estado de loading
+            });
+    }, []);
 
     const handleSelect = (element: number) => {
         setCategory(element); // Actualiza las categorias
@@ -30,12 +63,12 @@ function App() {
     };
 
     const renderProducts = () => {
-        return products
-            .filter((category) => category.path == categorySelected)
-            .flatMap((category) => {
-                const data = category.children
-                    .filter((productCategory) => {
-                        return dataProducts.some((dataProduct) => {
+        return (data.custom_products.json_data as Category[])
+            .filter((category: Category) => category.path === categorySelected)
+            .flatMap((category: Category) => {
+                const filteredChildren = category.children
+                    .filter((productCategory: ProductCategory) => {
+                        return data.products.some((dataProduct: Product) => {
                             return (
                                 dataProduct.id ===
                                     String(productCategory.path) &&
@@ -52,9 +85,9 @@ function App() {
                             );
                         });
                     })
-                    .map((value, key) => {
-                        const result = dataProducts.find(
-                            (dataProduct) =>
+                    .map((value: ProductCategory, key: number) => {
+                        const result = data.products.find(
+                            (dataProduct: Product) =>
                                 dataProduct.id === String(value.path)
                         );
                         return (
@@ -74,7 +107,7 @@ function App() {
                             </div>
                         );
                     });
-                if (data.length <= 0) {
+                if (filteredChildren.length <= 0) {
                     return (
                         <div className="col-12 col-md-12">
                             <div className="card h-100 shadow">
@@ -87,16 +120,23 @@ function App() {
                         </div>
                     );
                 }
-                return data;
+                return filteredChildren;
             });
     };
+
+    if (loading) return <div className="text-center">Cargando...</div>;
 
     return (
         <div className="container mt-4">
             <FiltroCategorias
                 onSelect={handleSelect}
-                categories={Object.values(dataCategoryList)}
-                currency={data.current_category}
+                categories={
+                    Object.values(data.category_list) as {
+                        id: number;
+                        nombre: string;
+                    }[]
+                }
+                currency={categorySelected}
             />
             <Buscador onSearch={handleSearch} />
             <div className="row">{renderProducts()}</div>
