@@ -2,7 +2,7 @@ type Props = {
     onSearch: (search: string) => void;
 };
 
-function Buscador({ onSearch }: Props) {
+function Search({ onSearch }: Props) {
     return (
         <input
             className="form-control me-2 mb-4"
@@ -14,4 +14,4 @@ function Buscador({ onSearch }: Props) {
     );
 }
 
-export default Buscador;
+export default Search;

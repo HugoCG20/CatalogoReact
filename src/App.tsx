@@ -3,8 +3,8 @@ import axios from "axios";
 
 // Componentes
 import Card from "./components/Card";
-import Buscador from "./components/Buscador";
-import FiltroCategorias from "./components/FiltroCategorias";
+import Search from "./components/Search";
+import FilterCategory from "./components/FilterCategory";
 
 import type {
     Product,
@@ -128,7 +128,8 @@ function App() {
 
     return (
         <div className="container mt-4">
-            <FiltroCategorias
+            <ModalCart />
+            <FilterCategory
                 onSelect={handleSelect}
                 categories={
                     Object.values(data.category_list) as {
@@ -138,7 +139,7 @@ function App() {
                 }
                 currency={categorySelected}
             />
-            <Buscador onSearch={handleSearch} />
+            <Search onSearch={handleSearch} />
             <div className="row">{renderProducts()}</div>
         </div>
     );

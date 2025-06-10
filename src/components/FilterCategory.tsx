@@ -6,7 +6,7 @@ type Props = {
     currency: number;
 };
 
-function FiltroCategorias({ categories, onSelect, currency }: Props) {
+function FilterCategory({ categories, onSelect, currency }: Props) {
     const [categorySelected, setCategory] = useState(currency);
     return (
         <select
@@ -29,4 +29,4 @@ function FiltroCategorias({ categories, onSelect, currency }: Props) {
     );
 }
 
-export default FiltroCategorias;
+export default FilterCategory;
