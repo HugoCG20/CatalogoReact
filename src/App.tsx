@@ -7,6 +7,9 @@ import Search from "./components/Search";
 import FilterCategory from "./components/FilterCategory";
 import ModalCart from "./components/ModalCart";
 
+// Utils
+import numberFormat from "./utils/helpers";
+
 import type {
     Product,
     ProductCategory,
@@ -61,15 +64,12 @@ function App() {
         setSearch(search);
     };
 
-    const numberFormat = (num: number) => {
-        return new Intl.NumberFormat("es-ES", {
-            minimumFractionDigits: 2,
-            maximumFractionDigits: 2,
-        }).format(Number(num) || 0);
-    };
-
     // Función para agregar producto al carrito
-    const addToCart = (productId?: number, productName?: string, productPrice?: number) => {
+    const addToCart = (
+        productId?: number,
+        productName?: string,
+        productPrice?: number
+    ) => {
         if (!productName || productPrice == undefined) return;
         setCart((prev) => {
             const exists = prev.find((item) => item.name == productName);
@@ -80,7 +80,15 @@ function App() {
                         : item
                 );
             } else {
-                return [...prev, { id: productId, name: productName, price: productPrice, quantity: 1 }];
+                return [
+                    ...prev,
+                    {
+                        id: productId,
+                        name: productName,
+                        price: productPrice,
+                        quantity: 1,
+                    },
+                ];
             }
         });
     };
@@ -99,7 +107,8 @@ function App() {
                     .filter((productCategory: ProductCategory) => {
                         return data.products.some((dataProduct: Product) => {
                             return (
-                                dataProduct.id === String(productCategory.path) &&
+                                dataProduct.id ===
+                                    String(productCategory.path) &&
                                 (dataProduct.producto_nombre
                                     .toLowerCase()
                                     .includes(search.toLowerCase()) ||
@@ -127,9 +136,17 @@ function App() {
                                 <Card
                                     // Aquí pasamos onAdd con la función que añade al carrito
                                     name={result?.producto_nombre}
-                                    image={decodeURIComponent(result?.img[0]?.path ?? "")}
+                                    image={decodeURIComponent(
+                                        result?.img[0]?.path ?? ""
+                                    )}
                                     price={numberFormat(priceNumber)}
-                                    onAdd={() => addToCart(idNumber, result?.producto_nombre, priceNumber)}
+                                    onAdd={() =>
+                                        addToCart(
+                                            idNumber,
+                                            result?.producto_nombre,
+                                            priceNumber
+                                        )
+                                    }
                                 />
                             </div>
                         );
@@ -159,7 +176,12 @@ function App() {
             <ModalCart cart={cart} onRemove={removeCart} />
             <FilterCategory
                 onSelect={handleSelect}
-                categories={Object.values(data.category_list) as { id: number; nombre: string }[]}
+                categories={
+                    Object.values(data.category_list) as {
+                        id: number;
+                        nombre: string;
+                    }[]
+                }
                 currency={categorySelected}
             />
             <Search onSearch={handleSearch} />
