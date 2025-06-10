@@ -1,8 +1,9 @@
 type Props = {
-    // id: number;
+    //id: number;
     name?: string;
     image?: string;
     price: number | string;
+    onAdd: () => void;
 };
 
 function Card({
@@ -10,6 +11,7 @@ function Card({
     name,
     image,
     price,
+    onAdd,
 }: Props) {
     return (
         <div className="card h-100 shadow">
@@ -17,10 +19,9 @@ function Card({
             <div className="card-body text-center">
                 <h5 className="card-title">
                     {name}
-                    {/* <strong>ID:{id}</strong> */}
                 </h5>
                 <p className="card-text">{price} €</p>
-                <button type="button" className="btn btn-primary">
+                <button type="button" className="btn btn-primary" onClick={onAdd}>
                     Añadir pedido
                 </button>
             </div>
